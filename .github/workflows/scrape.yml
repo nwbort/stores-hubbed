@@ -1,0 +1,52 @@
+name: Scrape store locations
+
+on:
+  schedule:
+    # 18:00 UTC daily (04:00/05:00 Australian eastern time).
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - scrape.py
+      - .github/workflows/scrape.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-stores
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scrape stores
+        env:
+          # Optional: set this repository secret if the public token rotates.
+          HUBBED_TOKEN: ${{ secrets.HUBBED_TOKEN }}
+        run: python scrape.py --output stores.json
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- stores.json; then
+            echo "No changes to stores.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          count=$(python -c "import json;print(json.load(open('stores.json'))['count'])")
+          git add stores.json
+          git commit -m "Update stores.json ($count stores)"
+          for delay in 0 2 4 8 16; do
+            [ "$delay" -eq 0 ] || sleep "$delay"
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+          done
+          echo "Failed to push after retries" >&2
+          exit 1
