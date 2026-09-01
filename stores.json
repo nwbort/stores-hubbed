@@ -8149,116 +8149,6 @@
     },
     {
       "address": {
-        "city": "Sandgate",
-        "country": "Australia",
-        "postcode": "4017",
-        "state": "QLD",
-        "street1": "49 Southerden Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "21:00",
-          "day": "Sunday",
-          "open_time": "06:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Monday",
-          "open_time": "04:30"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Tuesday",
-          "open_time": "04:30"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Wednesday",
-          "open_time": "04:30"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Thursday",
-          "open_time": "04:30"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Friday",
-          "open_time": "04:30"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Saturday",
-          "open_time": "05:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2614,
-      "enabled": true,
-      "hubbedlocation_id": 2614,
-      "lastModifiedDate": null,
-      "latitude": -27.3156159,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 2,
-        "name": "Service Station"
-      },
-      "longitude": 153.0611398,
-      "name": "BP Sandgate",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 06:00-21:00, Mon: 04:30-22:00, Tue: 04:30-22:00, Wed: 04:30-22:00, Thu: 04:30-22:00, Fri: 04:30-22:00, Sat: 05:00-21:00",
-      "packingEnabled": false,
-      "phone": "07 3269 1427",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU002486",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "Werribee",
         "country": "Australia",
         "postcode": "3030",
@@ -115763,6 +115653,11 @@
       "printingEnabled": false,
       "products": [
         {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
           "id": 4,
           "productname": "Return",
           "status": true
@@ -123918,27 +123813,27 @@
           "open_time": "10:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Monday",
           "open_time": "09:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Tuesday",
           "open_time": "09:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Wednesday",
           "open_time": "09:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Thursday",
           "open_time": "09:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Friday",
           "open_time": "09:00"
         },
@@ -123971,7 +123866,7 @@
       "name": "Chemsave Wiley Park",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: 10:00-14:00, Mon: 09:00-19:00, Tue: 09:00-19:00, Wed: 09:00-19:00, Thu: 09:00-19:00, Fri: 09:00-19:00, Sat: 09:00-15:00",
+      "operatingHours": "Sun: 10:00-14:00, Mon: 09:00-18:00, Tue: 09:00-18:00, Wed: 09:00-18:00, Thu: 09:00-18:00, Fri: 09:00-18:00, Sat: 09:00-15:00",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -146797,6 +146692,11 @@
           "status": true
         },
         {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
           "id": 5,
           "productname": "Send",
           "status": true
@@ -168197,7 +168097,7 @@
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 06:30-18:00, Tue: 06:30-18:00, Wed: 06:30-18:00, Thu: 06:30-18:00, Fri: 06:30-18:00, Sat: Closed",
       "packingEnabled": false,
-      "phone": "0430199673",
+      "phone": "1300482233",
       "printingEnabled": false,
       "products": [
         {
@@ -168208,6 +168108,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         },
         {
@@ -190957,7 +190862,7 @@
         "name": "Other"
       },
       "longitude": 145.0581096,
-      "name": "Blowin' Smoke",
+      "name": "Blowin Smoke",
       "offset": "+10:00",
       "openingDays": null,
       "operatingHours": "Sun: 09:00-21:00, Mon: 09:00-21:00, Tue: 09:00-21:00, Wed: 09:00-21:00, Thu: 09:00-21:00, Fri: 09:00-21:00, Sat: 09:00-21:00",
@@ -192147,7 +192052,7 @@
         "name": "Other"
       },
       "longitude": 145.1204164,
-      "name": "Thirsty Camel",
+      "name": "Global Liquor Store Clayton",
       "offset": "+10:00",
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
@@ -201864,6 +201769,111 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
+    },
+    {
+      "address": {
+        "city": "Paraburdoo",
+        "country": "Australia",
+        "postcode": "6754",
+        "state": "WA",
+        "street1": "Lot 809 Ashburton Ave",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18457,
+      "enabled": true,
+      "hubbedlocation_id": 18457,
+      "lastModifiedDate": null,
+      "latitude": -23.2000618,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 117.6716498,
+      "name": "Paraburdoo Lpo",
+      "offset": "+08:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
+      "packingEnabled": false,
+      "phone": "0437203856",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008818",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AWST"
     },
     {
       "address": {
