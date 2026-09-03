@@ -1,5 +1,5 @@
 {
-  "count": 1940,
+  "count": 1939,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -102199,106 +102199,6 @@
     },
     {
       "address": {
-        "city": "Hillarys",
-        "country": "Australia",
-        "postcode": "6025",
-        "state": "WA",
-        "street1": "58/59 Southside Dr",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "18:00",
-          "day": "Sunday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 6650,
-      "enabled": true,
-      "hubbedlocation_id": 6650,
-      "lastModifiedDate": null,
-      "latitude": -31.8263083,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 115.7390289,
-      "name": "Sorrento Quay Pharmacy",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 08:00-18:00, Mon: 08:00-18:00, Tue: 08:00-18:00, Wed: 08:00-18:00, Thu: 08:00-18:00, Fri: 08:00-18:00, Sat: 08:00-18:00",
-      "packingEnabled": false,
-      "phone": "0894489110",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
-      "storeDlb": "AU006048",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
-    },
-    {
-      "address": {
         "city": "Docklands",
         "country": "Australia",
         "postcode": "3008",
@@ -125607,7 +125507,7 @@
         "country": "Australia",
         "postcode": "2016",
         "state": "NSW",
-        "street1": "137 Redfern St.",
+        "street1": "152 Redfern St.",
         "street2": null
       },
       "availableDelivery": null,
@@ -125661,13 +125561,13 @@
       "enabled": true,
       "hubbedlocation_id": 7597,
       "lastModifiedDate": null,
-      "latitude": -33.8925879,
+      "latitude": -33.8923839,
       "locationCourierData": null,
       "locationType": {
         "id": 4,
         "name": "Convenience"
       },
-      "longitude": 151.2012928,
+      "longitude": 151.2020631,
       "name": "Redfern Convenience Store",
       "offset": "+10:00",
       "openingDays": null,
@@ -187862,106 +187762,6 @@
     },
     {
       "address": {
-        "city": "Caulfield North",
-        "country": "Australia",
-        "postcode": "3145",
-        "state": "VIC",
-        "street1": "Shop 1/6 Caulfield Boulevard, Caulfield Village",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "18:00",
-          "day": "Sunday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "21:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 16765,
-      "enabled": true,
-      "hubbedlocation_id": 16765,
-      "lastModifiedDate": null,
-      "latitude": -37.8762407,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 145.0384425,
-      "name": "Direct Chemist Outlet Caulfield Village",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 09:00-18:00, Mon: 09:00-21:00, Tue: 09:00-21:00, Wed: 09:00-21:00, Thu: 09:00-21:00, Fri: 09:00-21:00, Sat: 09:00-18:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008437",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Jordan Springs",
         "country": "Australia",
         "postcode": "2747",
@@ -194662,106 +194462,6 @@
     },
     {
       "address": {
-        "city": "Chigwell",
-        "country": "Australia",
-        "postcode": "7011",
-        "state": "TAS",
-        "street1": "Unit 5/2 Bucaan St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 17431,
-      "enabled": true,
-      "hubbedlocation_id": 17431,
-      "lastModifiedDate": null,
-      "latitude": -42.8112325,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 147.2416013,
-      "name": "Chigwell Newsagency And Post Office",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-17:30, Tue: 08:00-17:30, Wed: 08:00-17:30, Thu: 08:00-17:30, Fri: 08:00-17:30, Sat: 08:00-12:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008587",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Altona Meadows",
         "country": "Australia",
         "postcode": "3028",
@@ -198846,6 +198546,116 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU008706",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
+        "city": "Lindisfarne",
+        "country": "Australia",
+        "postcode": "7015",
+        "state": "TAS",
+        "street1": "38-40 Lincoln St",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "14:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 17825,
+      "enabled": true,
+      "hubbedlocation_id": 17825,
+      "lastModifiedDate": null,
+      "latitude": -42.8472181,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 1,
+        "name": "Newsagent"
+      },
+      "longitude": 147.3534566,
+      "name": "Lindisfarne Lucky Newsagency",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: 09:00-14:00",
+      "packingEnabled": false,
+      "phone": "0457475015",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008703",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -203748,6 +203558,101 @@
       "storeDlb": "AU009295",
       "storeIcon": null,
       "storeType": "Newsagent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Ayr",
+        "country": "Australia",
+        "postcode": "4807",
+        "state": "QLD",
+        "street1": "131 Queen Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19308,
+      "enabled": true,
+      "hubbedlocation_id": 19308,
+      "lastModifiedDate": null,
+      "latitude": -19.5749917,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 147.4057458,
+      "name": "Helloworld Travel Ayr",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009311",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
       "timezone": null
     }
   ]
