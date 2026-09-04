@@ -1,5 +1,5 @@
 {
-  "count": 1939,
+  "count": 1936,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -301,116 +301,6 @@
       "storeIcon": null,
       "storeType": "Other",
       "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
-    },
-    {
-      "address": {
-        "city": "Broadmeadows",
-        "country": "Australia",
-        "postcode": "3047",
-        "state": "VIC",
-        "street1": "22 Railway Crescent",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:30",
-          "day": "Saturday",
-          "open_time": "11:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2330,
-      "enabled": true,
-      "hubbedlocation_id": 2330,
-      "lastModifiedDate": null,
-      "latitude": -37.683794,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 144.920124,
-      "name": "5 Rivers Convenience Store",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 07:00-23:00, Tue: 07:00-23:00, Wed: 07:00-23:00, Thu: 07:00-23:00, Fri: 07:00-23:00, Sat: 11:00-22:30",
-      "packingEnabled": false,
-      "phone": "0393090925",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Railway Cres to Martell St - Parking lot",
-      "storeDlb": "AU002791",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
     },
     {
       "address": {
@@ -19050,11 +18940,6 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
           "status": true
         }
       ],
@@ -60099,106 +59984,6 @@
     },
     {
       "address": {
-        "city": "The Channon",
-        "country": "Australia",
-        "postcode": "2480",
-        "state": "NSW",
-        "street1": "7 Standing Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "19:00",
-          "day": "Sunday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Saturday",
-          "open_time": "07:30"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3795,
-      "enabled": true,
-      "hubbedlocation_id": 3795,
-      "lastModifiedDate": null,
-      "latitude": -28.6733547,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 153.27828,
-      "name": "The Channon Store & LPO",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:30-19:00, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 07:30-19:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU004536",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Richmond",
         "country": "Australia",
         "postcode": "3121",
@@ -93451,116 +93236,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AWST"
-    },
-    {
-      "address": {
-        "city": "Brunswick",
-        "country": "Australia",
-        "postcode": "3056",
-        "state": "VIC",
-        "street1": "303-305 Albert St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Saturday",
-          "open_time": "08:30"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 4787,
-      "enabled": true,
-      "hubbedlocation_id": 4787,
-      "lastModifiedDate": null,
-      "latitude": -37.768227,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 144.9587087,
-      "name": "The Tiling House",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-16:00, Tue: 09:00-16:00, Wed: 09:00-16:00, Thu: 09:00-16:00, Fri: 09:00-16:00, Sat: 08:30-12:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007137",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
     },
     {
       "address": {
@@ -184794,11 +184469,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
         }
       ],
       "service_type": null,
@@ -198622,7 +198292,7 @@
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: 09:00-14:00",
       "packingEnabled": false,
-      "phone": "0457475015",
+      "phone": "1300482233",
       "printingEnabled": false,
       "products": [
         {
@@ -198633,16 +198303,6 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
           "status": true
         }
       ],
