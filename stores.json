@@ -1,5 +1,5 @@
 {
-  "count": 1936,
+  "count": 1937,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -18940,6 +18940,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         }
       ],
@@ -70364,9 +70369,9 @@
       "availableDelivery": null,
       "businessHours": [
         {
-          "close_time": "15:00",
+          "close_time": "Closed",
           "day": "Sunday",
-          "open_time": "11:00"
+          "open_time": "Closed"
         },
         {
           "close_time": "17:00",
@@ -70422,7 +70427,7 @@
       "name": "Centree Health Pharmacy",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: 11:00-15:00, Mon: 10:00-17:00, Tue: 10:00-17:00, Wed: 10:00-17:00, Thu: 10:00-17:00, Fri: 10:00-17:00, Sat: Closed",
+      "operatingHours": "Sun: Closed, Mon: 10:00-17:00, Tue: 10:00-17:00, Wed: 10:00-17:00, Thu: 10:00-17:00, Fri: 10:00-17:00, Sat: Closed",
       "packingEnabled": true,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -203218,6 +203223,116 @@
       "storeDlb": "AU009295",
       "storeIcon": null,
       "storeType": "Newsagent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Templestowe Lower",
+        "country": "Australia",
+        "postcode": "3107",
+        "state": "VIC",
+        "street1": "3 Macedon Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19242,
+      "enabled": true,
+      "hubbedlocation_id": 19242,
+      "lastModifiedDate": null,
+      "latitude": -37.7727815,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 4,
+        "name": "Convenience"
+      },
+      "longitude": 145.1121193,
+      "name": "Allhome Asian Grocery",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009307",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     },
     {
