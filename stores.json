@@ -1,5 +1,5 @@
 {
-  "count": 1937,
+  "count": 1939,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -192746,7 +192746,7 @@
         "country": "Australia",
         "postcode": "5041",
         "state": "SA",
-        "street1": "314 Goodwood Road",
+        "street1": "350 Goodwood Road",
         "street2": null
       },
       "availableDelivery": null,
@@ -192800,13 +192800,13 @@
       "enabled": true,
       "hubbedlocation_id": 17318,
       "lastModifiedDate": null,
-      "latitude": -34.9643881,
+      "latitude": -34.9666782,
       "locationCourierData": null,
       "locationType": {
         "id": 3,
         "name": "Pharmacy"
       },
-      "longitude": 138.5901188,
+      "longitude": 138.5903131,
       "name": "Terrywhite Chemmart Cumberland Park Pharmacy",
       "offset": "+09:30",
       "openingDays": null,
@@ -193992,7 +193992,7 @@
         "name": "Convenience"
       },
       "longitude": 145.094503,
-      "name": "Iga Camberwell",
+      "name": "IGA Camberwell",
       "offset": "+10:00",
       "openingDays": null,
       "operatingHours": "Sun: 09:00-19:00, Mon: 07:30-20:00, Tue: 07:30-20:00, Wed: 07:30-20:00, Thu: 07:30-20:00, Fri: 07:30-20:00, Sat: 07:30-20:00",
@@ -201142,6 +201142,116 @@
     },
     {
       "address": {
+        "city": "Melbourne",
+        "country": "Australia",
+        "postcode": "3004",
+        "state": "VIC",
+        "street1": "3/401 St Kilda Road,",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18385,
+      "enabled": true,
+      "hubbedlocation_id": 18385,
+      "lastModifiedDate": null,
+      "latitude": -37.83565,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 144.975671,
+      "name": "The Melbourne Wine Store",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
+      "packingEnabled": false,
+      "phone": "0469621728",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008809",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
         "city": "Cumnock",
         "country": "Australia",
         "postcode": "2867",
@@ -202398,6 +202508,116 @@
       "storeDlb": "AU009261",
       "storeIcon": null,
       "storeType": "Other",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Reservoir",
+        "country": "Australia",
+        "postcode": "3073",
+        "state": "VIC",
+        "street1": "28 Yarra Avenue",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19043,
+      "enabled": true,
+      "hubbedlocation_id": 19043,
+      "lastModifiedDate": null,
+      "latitude": -37.7191173,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 145.0215427,
+      "name": "Duncan’S Reservior Cellars",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009279",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     },
     {
