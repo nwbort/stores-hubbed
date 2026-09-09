@@ -1,5 +1,5 @@
 {
-  "count": 1939,
+  "count": 1938,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -57694,7 +57694,7 @@
         "postcode": "3182",
         "state": "VIC",
         "street1": "166 St Kilda Road",
-        "street2": null
+        "street2": ""
       },
       "availableDelivery": null,
       "businessHours": [
@@ -57759,7 +57759,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 08:30-21:30, Mon: 08:30-21:30, Tue: 08:30-21:30, Wed: 08:30-21:30, Thu: 08:30-21:30, Fri: 08:30-21:30, Sat: 08:30-21:30",
       "packingEnabled": false,
-      "phone": "0420 860 919",
+      "phone": "0420860919",
       "printingEnabled": false,
       "products": [
         {
@@ -93238,116 +93238,6 @@
       "showonmap": true,
       "special_instructions": "FALSE",
       "storeDlb": "AU007136",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
-    },
-    {
-      "address": {
-        "city": "Aveley",
-        "country": "Australia",
-        "postcode": "6069",
-        "state": "WA",
-        "street1": "S5, 311 Millhouse Road and Egerton Dr",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 4819,
-      "enabled": true,
-      "hubbedlocation_id": 4819,
-      "lastModifiedDate": null,
-      "latitude": -31.7764217,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 115.9886106,
-      "name": "Aveley News",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-17:30, Tue: 08:00-17:30, Wed: 08:00-17:30, Thu: 08:00-17:30, Fri: 08:00-17:30, Sat: 08:00-17:00",
-      "packingEnabled": false,
-      "phone": "0434085551",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007138",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AWST"
@@ -140608,7 +140498,7 @@
         "postcode": "2067",
         "state": "NSW",
         "street1": "Shop 10, 427-441 Victoria Ave",
-        "street2": null
+        "street2": ""
       },
       "availableDelivery": null,
       "businessHours": [
@@ -140673,7 +140563,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 10:00-18:00, Mon: 10:00-18:00, Tue: 10:00-18:00, Wed: 10:00-18:00, Thu: 10:00-18:00, Fri: 10:00-18:00, Sat: 10:00-18:00",
       "packingEnabled": false,
-      "phone": null,
+      "phone": "0488881011",
       "printingEnabled": false,
       "products": [
         {
@@ -140710,101 +140600,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Mossman",
-        "country": "Australia",
-        "postcode": "4873",
-        "state": "QLD",
-        "street1": "6 Theresa Drive",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "13:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "13:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "13:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "13:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 9185,
-      "enabled": true,
-      "hubbedlocation_id": 9185,
-      "lastModifiedDate": null,
-      "latitude": -16.4840889,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 145.3775833,
-      "name": "MRT Freight Services - Mossman",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 07:00-12:00, Tue: 07:00-13:00, Wed: 07:00-13:00, Thu: 07:00-13:00, Fri: 07:00-13:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "ONLY TGE",
-      "storeDlb": "AU007490",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
     },
     {
       "address": {
@@ -203648,6 +203443,111 @@
       "storeDlb": "AU009311",
       "storeIcon": null,
       "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Wiangaree",
+        "country": "Australia",
+        "postcode": "2474",
+        "state": "NSW",
+        "street1": "1375 Summerland Way",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "16:30",
+          "day": "Monday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19340,
+      "enabled": true,
+      "hubbedlocation_id": 19340,
+      "lastModifiedDate": null,
+      "latitude": -28.5088096,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 152.9649209,
+      "name": "Wiangaree Mechanical",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 08:30-16:30, Tue: 08:30-16:30, Wed: 08:30-16:30, Thu: 08:30-16:30, Fri: 08:30-16:30, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009320",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     }
   ]
