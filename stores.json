@@ -1,5 +1,5 @@
 {
-  "count": 1932,
+  "count": 1933,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -34724,6 +34724,111 @@
     },
     {
       "address": {
+        "city": "Mareeba",
+        "country": "Australia",
+        "postcode": "4880",
+        "state": "QLD",
+        "street1": "125 Byrnes Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "12:00",
+          "day": "Sunday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "05:00"
+        },
+        {
+          "close_time": "12:00",
+          "day": "Saturday",
+          "open_time": "05:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 3178,
+      "enabled": true,
+      "hubbedlocation_id": 3178,
+      "lastModifiedDate": null,
+      "latitude": -16.992681,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 1,
+        "name": "Newsagent"
+      },
+      "longitude": 145.42271,
+      "name": "Mareeba News",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 05:00-12:00, Mon: 05:00-17:00, Tue: 05:00-17:00, Wed: 05:00-17:00, Thu: 05:00-17:00, Fri: 05:00-17:00, Sat: 05:00-12:00",
+      "packingEnabled": false,
+      "phone": "0740921030",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU000861",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEST"
+    },
+    {
+      "address": {
         "city": "Paddington",
         "country": "Australia",
         "postcode": "4064",
@@ -38769,34 +38874,34 @@
           "open_time": "Closed"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Monday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Tuesday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Wednesday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Thursday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         },
         {
-          "close_time": "19:00",
+          "close_time": "18:00",
           "day": "Friday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         },
         {
-          "close_time": "18:30",
+          "close_time": "17:30",
           "day": "Saturday",
-          "open_time": "07:00"
+          "open_time": "07:45"
         }
       ],
       "channel": {
@@ -38822,7 +38927,7 @@
       "name": "Mulgrave Lotto & Newsagency",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 07:00-18:30",
+      "operatingHours": "Sun: Closed, Mon: 07:45-18:00, Tue: 07:45-18:00, Wed: 07:45-18:00, Thu: 07:45-18:00, Fri: 07:45-18:00, Sat: 07:45-17:30",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -60714,7 +60819,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 07:00-13:00, Mon: 07:00-18:00, Tue: 07:00-18:00, Wed: 07:00-18:00, Thu: 07:00-18:00, Fri: 07:00-18:00, Sat: 07:00-15:00",
       "packingEnabled": false,
-      "phone": "02 9524 6297",
+      "phone": "1300482233",
       "printingEnabled": false,
       "products": [
         {
@@ -162822,111 +162927,6 @@
     },
     {
       "address": {
-        "city": "Bendigo",
-        "country": "Australia",
-        "postcode": "3550",
-        "state": "VIC",
-        "street1": "104 Harpin Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 14071,
-      "enabled": true,
-      "hubbedlocation_id": 14071,
-      "lastModifiedDate": null,
-      "latitude": -36.7488442,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 7,
-        "name": "Printing & Logistics"
-      },
-      "longitude": 144.3060885,
-      "name": "Regional Freight Express Bendigo",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-16:00, Tue: 08:00-16:00, Wed: 08:00-16:00, Thu: 08:00-16:00, Fri: 08:00-16:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU007920",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Atherton",
         "country": "Australia",
         "postcode": "4883",
@@ -167478,6 +167478,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         },
         {
@@ -199422,116 +199427,6 @@
     },
     {
       "address": {
-        "city": "Ringwood",
-        "country": "Australia",
-        "postcode": "3134",
-        "state": "VIC",
-        "street1": "Level 1/156 Maroondah Hwy",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "15:00",
-          "day": "Sunday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Monday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Tuesday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Wednesday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Thursday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Friday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Saturday",
-          "open_time": "10:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 18218,
-      "enabled": true,
-      "hubbedlocation_id": 18218,
-      "lastModifiedDate": null,
-      "latitude": -37.813531,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 145.234205,
-      "name": "Briggins",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 10:00-15:00, Mon: Closed, Tue: 10:00-15:00, Wed: 10:00-15:00, Thu: 10:00-15:00, Fri: 10:00-15:00, Sat: 10:00-15:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008783",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Speewah",
         "country": "Australia",
         "postcode": "4881",
@@ -201008,6 +200903,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         },
         {
@@ -202587,11 +202487,11 @@
     },
     {
       "address": {
-        "city": "Templestowe Lower",
+        "city": "Croydon South",
         "country": "Australia",
-        "postcode": "3107",
+        "postcode": "3136",
         "state": "VIC",
-        "street1": "3 Macedon Road",
+        "street1": "500-502 Dorset Rd",
         "street2": null
       },
       "availableDelivery": null,
@@ -202641,18 +202541,18 @@
         "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
       },
       "courier": null,
-      "droplocation_id": 19242,
+      "droplocation_id": 19175,
       "enabled": true,
-      "hubbedlocation_id": 19242,
+      "hubbedlocation_id": 19175,
       "lastModifiedDate": null,
-      "latitude": -37.7727815,
+      "latitude": -37.815648,
       "locationCourierData": null,
       "locationType": {
         "id": 4,
         "name": "Convenience"
       },
-      "longitude": 145.1121193,
-      "name": "Allhome Asian Grocery",
+      "longitude": 145.2872511,
+      "name": "Dorset Convenient Store",
       "offset": null,
       "openingDays": null,
       "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
@@ -202690,7 +202590,7 @@
       ],
       "showonmap": true,
       "special_instructions": "",
-      "storeDlb": "AU009307",
+      "storeDlb": "AU009296",
       "storeIcon": null,
       "storeType": "Independent",
       "timezone": null
@@ -202788,6 +202688,111 @@
       "storeDlb": "AU009311",
       "storeIcon": null,
       "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Glenthompson",
+        "country": "Australia",
+        "postcode": "3293",
+        "state": "VIC",
+        "street1": "24-26 Memorial Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19339,
+      "enabled": true,
+      "hubbedlocation_id": 19339,
+      "lastModifiedDate": null,
+      "latitude": -37.6363297,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 142.5474928,
+      "name": "The Glen Roadhouse 1",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009319",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     },
     {
@@ -202893,6 +202898,116 @@
       "storeDlb": "AU009320",
       "storeIcon": null,
       "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Stafford",
+        "country": "Australia",
+        "postcode": "4053",
+        "state": "QLD",
+        "street1": "400 Stafford Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19374,
+      "enabled": true,
+      "hubbedlocation_id": 19374,
+      "lastModifiedDate": null,
+      "latitude": -27.4104588,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 1,
+        "name": "Newsagent"
+      },
+      "longitude": 153.0134675,
+      "name": "Stafford City Newsagency",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009323",
+      "storeIcon": null,
+      "storeType": "NLNA",
       "timezone": null
     }
   ]
