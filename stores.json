@@ -1,5 +1,5 @@
 {
-  "count": 1931,
+  "count": 1930,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -27386,116 +27386,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEST"
-    },
-    {
-      "address": {
-        "city": "Wickham",
-        "country": "Australia",
-        "postcode": "2293",
-        "state": "NSW",
-        "street1": "74 Hannell Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "11:00",
-          "day": "Sunday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Saturday",
-          "open_time": "05:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3014,
-      "enabled": true,
-      "hubbedlocation_id": 3014,
-      "lastModifiedDate": null,
-      "latitude": -32.9212181,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 151.7598095,
-      "name": "Honeysuckle Newsagency",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 05:00-11:00, Mon: 05:00-17:00, Tue: 05:00-17:00, Wed: 05:00-17:00, Thu: 05:00-17:00, Fri: 05:00-17:00, Sat: 05:00-12:00",
-      "packingEnabled": false,
-      "phone": "02 4906 8968",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU004716",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
     },
     {
       "address": {
@@ -70894,116 +70784,6 @@
     },
     {
       "address": {
-        "city": "Sydney",
-        "country": "Australia",
-        "postcode": "2000",
-        "state": "NSW",
-        "street1": "Shop 2, 61 Macquarie St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "17:30",
-          "day": "Sunday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Saturday",
-          "open_time": "11:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 4052,
-      "enabled": true,
-      "hubbedlocation_id": 4052,
-      "lastModifiedDate": null,
-      "latitude": -33.8753313,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 151.2094302,
-      "name": "Sydney Flight Simulator",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 11:00-17:30, Mon: 11:00-17:30, Tue: 11:00-17:30, Wed: 11:00-17:30, Thu: 11:00-17:30, Fri: 11:00-17:30, Sat: 11:00-17:30",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007031",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Caulfield",
         "country": "Australia",
         "postcode": "3162",
@@ -72700,6 +72480,11 @@
         {
           "id": 4,
           "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
           "status": true
         }
       ],
@@ -200809,6 +200594,116 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEST"
+    },
+    {
+      "address": {
+        "city": "Bayswater",
+        "country": "Australia",
+        "postcode": "3153",
+        "state": "VIC",
+        "street1": "G01/538 Mountain Highway",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:30",
+          "day": "Monday",
+          "open_time": "09:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Tuesday",
+          "open_time": "09:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Wednesday",
+          "open_time": "09:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Thursday",
+          "open_time": "09:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Friday",
+          "open_time": "09:30"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18679,
+      "enabled": true,
+      "hubbedlocation_id": 18679,
+      "lastModifiedDate": null,
+      "latitude": -37.8439972,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 145.2489876,
+      "name": "Direct Chemist Outlet Knox Health",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:30-17:30, Tue: 09:30-17:30, Wed: 09:30-17:30, Thu: 09:30-17:30, Fri: 09:30-17:30, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "397295110",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009246",
+      "storeIcon": null,
+      "storeType": "Independent",
+      "timezone": null
     },
     {
       "address": {
