@@ -1,5 +1,5 @@
 {
-  "count": 1931,
+  "count": 1930,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -74193,7 +74193,7 @@
         "country": "New Zealand",
         "postcode": "2104",
         "state": "Manukau",
-        "street1": "Unit 21/16 Lambie Drive",
+        "street1": "18 LAMBIE DRIVE,UNIT 71",
         "street2": null
       },
       "availableDelivery": null,
@@ -74247,19 +74247,19 @@
       "enabled": true,
       "hubbedlocation_id": 4239,
       "lastModifiedDate": null,
-      "latitude": -36.9864885,
+      "latitude": -36.9862648,
       "locationCourierData": null,
       "locationType": {
         "id": 7,
         "name": "Printing & Logistics"
       },
-      "longitude": 174.8727319,
+      "longitude": 174.873415,
       "name": "Pack & Send Manukau",
       "offset": null,
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
       "packingEnabled": false,
-      "phone": "+64 9 950 8642",
+      "phone": "6499508642",
       "printingEnabled": false,
       "products": [
         {
@@ -138327,6 +138327,11 @@
           "status": true
         },
         {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
           "id": 5,
           "productname": "Send",
           "status": true
@@ -178964,7 +178969,7 @@
       "address": {
         "city": "Wembley",
         "country": "Australia",
-        "postcode": "6104",
+        "postcode": "6014",
         "state": "WA",
         "street1": "186 Harborne Street",
         "street2": null
@@ -184362,116 +184367,6 @@
     },
     {
       "address": {
-        "city": "Little Mountain",
-        "country": "Australia",
-        "postcode": "4551",
-        "state": "QLD",
-        "street1": "4/ 11 Birrobeen Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 16369,
-      "enabled": true,
-      "hubbedlocation_id": 16369,
-      "lastModifiedDate": null,
-      "latitude": -26.7739564,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 153.0992131,
-      "name": "Nightowl Convenience Little Mountain",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008395",
-      "storeIcon": null,
-      "storeType": "NLNA",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "North Albury",
         "country": "Australia",
         "postcode": "2640",
@@ -188561,116 +188456,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU008484",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Croydon",
-        "country": "Australia",
-        "postcode": "3136",
-        "state": "VIC",
-        "street1": "6/50 Main Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "19:00",
-          "day": "Sunday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 16939,
-      "enabled": true,
-      "hubbedlocation_id": 16939,
-      "lastModifiedDate": null,
-      "latitude": -37.7951941,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 145.2821715,
-      "name": "Phl Convenience",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 09:00-19:00, Mon: 08:00-20:00, Tue: 08:00-20:00, Wed: 08:00-20:00, Thu: 08:00-20:00, Fri: 08:00-20:00, Sat: 08:00-20:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008487",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -202678,6 +202463,101 @@
       "storeDlb": "AU009323",
       "storeIcon": null,
       "storeType": "NLNA",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Narrabri",
+        "country": "Australia",
+        "postcode": "2390",
+        "state": "NSW",
+        "street1": "41 Francis Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19438,
+      "enabled": true,
+      "hubbedlocation_id": 19438,
+      "lastModifiedDate": null,
+      "latitude": -30.3115373,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 149.779857,
+      "name": "Inland Freight",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009328",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
       "timezone": null
     },
     {
