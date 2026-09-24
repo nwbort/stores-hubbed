@@ -104,6 +104,111 @@
     },
     {
       "address": {
+        "city": "MILTON",
+        "country": "Australia",
+        "postcode": "4064",
+        "state": "QLD",
+        "street1": "16-20 Black St",
+        "street2": ""
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Tuesday",
+          "open_time": "07:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Wednesday",
+          "open_time": "07:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Thursday",
+          "open_time": "07:30"
+        },
+        {
+          "close_time": "17:30",
+          "day": "Friday",
+          "open_time": "07:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 1638,
+      "enabled": true,
+      "hubbedlocation_id": 1638,
+      "lastModifiedDate": null,
+      "latitude": -27.4674097,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 153.0076065,
+      "name": "Kennards Milton Parcelpoint",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: Closed, Tue: 07:30-17:30, Wed: 07:30-17:30, Thu: 07:30-17:30, Fri: 07:30-17:30, Sat: 09:00-17:00, Sun: 10:00-16:00",
+      "packingEnabled": false,
+      "phone": "0732175555",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "LOC001638",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
+    },
+    {
+      "address": {
         "city": "BROOKVALE",
         "country": "Australia",
         "postcode": "2100",
@@ -6393,116 +6498,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU002538",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Clayton South",
-        "country": "Australia",
-        "postcode": "3169",
-        "state": "VIC",
-        "street1": "727 Heatherton Rd & Westall Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "20:00",
-          "day": "Sunday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Monday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Tuesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Wednesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Thursday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Friday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Saturday",
-          "open_time": "07:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2478,
-      "enabled": true,
-      "hubbedlocation_id": 2478,
-      "lastModifiedDate": null,
-      "latitude": -37.9602871,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 2,
-        "name": "Service Station"
-      },
-      "longitude": 145.1360977,
-      "name": "BP Clayton South",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:00-20:00, Mon: 05:00-22:00, Tue: 05:00-22:00, Wed: 05:00-22:00, Thu: 05:00-22:00, Fri: 05:00-22:00, Sat: 07:00-20:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": true,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU002635",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -61289,39 +61284,39 @@
       "availableDelivery": null,
       "businessHours": [
         {
-          "close_time": "13:00",
+          "close_time": "12:00",
           "day": "Sunday",
-          "open_time": "06:00"
+          "open_time": "07:00"
         },
         {
-          "close_time": "17:30",
+          "close_time": "17:00",
           "day": "Monday",
           "open_time": "06:30"
         },
         {
-          "close_time": "17:30",
+          "close_time": "17:00",
           "day": "Tuesday",
           "open_time": "06:30"
         },
         {
-          "close_time": "17:30",
+          "close_time": "17:00",
           "day": "Wednesday",
           "open_time": "06:30"
         },
         {
-          "close_time": "17:30",
+          "close_time": "17:00",
           "day": "Thursday",
           "open_time": "06:30"
         },
         {
-          "close_time": "17:30",
+          "close_time": "17:00",
           "day": "Friday",
           "open_time": "06:30"
         },
         {
-          "close_time": "16:00",
+          "close_time": "13:00",
           "day": "Saturday",
-          "open_time": "06:00"
+          "open_time": "06:30"
         }
       ],
       "channel": {
@@ -61347,9 +61342,9 @@
       "name": "Toronto Newsagency",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: 06:00-13:00, Mon: 06:30-17:30, Tue: 06:30-17:30, Wed: 06:30-17:30, Thu: 06:30-17:30, Fri: 06:30-17:30, Sat: 06:00-16:00",
+      "operatingHours": "Sun: 07:00-12:00, Mon: 06:30-17:00, Tue: 06:30-17:00, Wed: 06:30-17:00, Thu: 06:30-17:00, Fri: 06:30-17:00, Sat: 06:30-13:00",
       "packingEnabled": false,
-      "phone": "0415 122 963",
+      "phone": "0415122963",
       "printingEnabled": false,
       "products": [
         {
@@ -130762,6 +130757,16 @@
       "printingEnabled": false,
       "products": [
         {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
           "id": 4,
           "productname": "Return",
           "status": true
@@ -172767,116 +172772,6 @@
     },
     {
       "address": {
-        "city": "Brooklyn Park",
-        "country": "Australia",
-        "postcode": "5032",
-        "state": "SA",
-        "street1": "289 Henley Beach Road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "23:00",
-          "day": "Sunday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "23:00",
-          "day": "Saturday",
-          "open_time": "07:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 15214,
-      "enabled": true,
-      "hubbedlocation_id": 15214,
-      "lastModifiedDate": null,
-      "latitude": -34.9250935,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 138.5487387,
-      "name": "Foodland Brooklyn Park",
-      "offset": "+09:30",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:00-23:00, Mon: 07:00-23:00, Tue: 07:00-23:00, Wed: 07:00-23:00, Thu: 07:00-23:00, Fri: 07:00-23:00, Sat: 07:00-23:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008085",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "ACDT"
-    },
-    {
-      "address": {
         "city": "Glebe",
         "country": "Australia",
         "postcode": "2037",
@@ -202893,6 +202788,111 @@
       "storeDlb": "AU009328",
       "storeIcon": null,
       "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Clayfiled",
+        "country": "Australia",
+        "postcode": "4011",
+        "state": "QLD",
+        "street1": "Unit 1/458 Sandgate Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19511,
+      "enabled": true,
+      "hubbedlocation_id": 19511,
+      "lastModifiedDate": null,
+      "latitude": -27.4276722,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 4,
+        "name": "Convenience"
+      },
+      "longitude": 153.0464677,
+      "name": "Foodmart Clayfield",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009340",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     },
     {
