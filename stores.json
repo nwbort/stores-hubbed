@@ -14,9 +14,9 @@
       "availableDelivery": null,
       "businessHours": [
         {
-          "close_time": "Closed",
+          "close_time": "18:00",
           "day": "Monday",
-          "open_time": "Closed"
+          "open_time": "08:30"
         },
         {
           "close_time": "18:00",
@@ -72,9 +72,9 @@
       "name": "Kennards Frenchs Forest Parcelpoint",
       "offset": null,
       "openingDays": null,
-      "operatingHours": "Mon: Closed, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00, Sun: 10:00-16:00",
+      "operatingHours": "Mon: 08:30-18:00, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00, Sun: 10:00-16:00",
       "packingEnabled": false,
-      "phone": null,
+      "phone": "1300482233",
       "printingEnabled": false,
       "products": [
         {
@@ -390,6 +390,11 @@
         {
           "id": 4,
           "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
           "status": true
         }
       ],
@@ -38854,6 +38859,116 @@
     },
     {
       "address": {
+        "city": "Greenfields",
+        "country": "Australia",
+        "postcode": "6210",
+        "state": "WA",
+        "street1": "6/55 Murdoch Drive",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "19:00",
+          "day": "Sunday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Monday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Tuesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Wednesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Thursday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Friday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:30",
+          "day": "Saturday",
+          "open_time": "07:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 3258,
+      "enabled": true,
+      "hubbedlocation_id": 3258,
+      "lastModifiedDate": null,
+      "latitude": -32.5308894,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 4,
+        "name": "Convenience"
+      },
+      "longitude": 115.7528506,
+      "name": "Murdoch Drive Continental Super Deli",
+      "offset": "+08:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 07:00-19:00, Mon: 07:00-19:30, Tue: 07:00-19:30, Wed: 07:00-19:30, Thu: 07:00-19:30, Fri: 07:00-19:30, Sat: 07:00-19:30",
+      "packingEnabled": false,
+      "phone": "0895348554",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU004897",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AWST"
+    },
+    {
+      "address": {
         "city": "Murdunna",
         "country": "Australia",
         "postcode": "7178",
@@ -54480,11 +54595,6 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
           "status": true
         }
       ],
@@ -97751,6 +97861,11 @@
           "id": 4,
           "productname": "Return",
           "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
         }
       ],
       "service_type": null,
@@ -102315,16 +102430,6 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
           "status": true
         }
       ],
@@ -128385,106 +128490,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "ACDT"
-    },
-    {
-      "address": {
-        "city": "Samford Village",
-        "country": "Australia",
-        "postcode": "4520",
-        "state": "QLD",
-        "street1": "3/4 Mary Ring Dr",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "14:00",
-          "day": "Sunday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Monday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Tuesday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Wednesday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Thursday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Friday",
-          "open_time": "07:30"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Saturday",
-          "open_time": "08:30"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 7651,
-      "enabled": true,
-      "hubbedlocation_id": 7651,
-      "lastModifiedDate": null,
-      "latitude": -27.3724373,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 152.8856318,
-      "name": "Terrywhite Chemmart Samford",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 09:00-14:00, Mon: 07:30-19:00, Tue: 07:30-19:00, Wed: 07:30-19:00, Thu: 07:30-19:00, Fri: 07:30-19:00, Sat: 08:30-16:00",
-      "packingEnabled": false,
-      "phone": "07 3289 1559",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
-      "storeDlb": "AU006440",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
     },
     {
       "address": {
@@ -181312,116 +181317,6 @@
     },
     {
       "address": {
-        "city": "Kempsey",
-        "country": "Australia",
-        "postcode": "2440",
-        "state": "NSW",
-        "street1": "19 Smith St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "11:00",
-          "day": "Sunday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "12:30",
-          "day": "Saturday",
-          "open_time": "07:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 15948,
-      "enabled": true,
-      "hubbedlocation_id": 15948,
-      "lastModifiedDate": null,
-      "latitude": -31.0798104,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 152.8420939,
-      "name": "Kempsey Newsagency",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:00-11:00, Mon: 07:00-17:00, Tue: 07:00-17:00, Wed: 07:00-17:00, Thu: 07:00-17:00, Fri: 07:00-17:00, Sat: 07:00-12:30",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008304",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Balranald",
         "country": "Australia",
         "postcode": "2715",
@@ -189214,7 +189109,7 @@
         {
           "close_time": "21:00",
           "day": "Sunday",
-          "open_time": "11:30"
+          "open_time": "02:00"
         },
         {
           "close_time": "20:00",
@@ -189234,7 +189129,7 @@
         {
           "close_time": "21:30",
           "day": "Thursday",
-          "open_time": "11:30"
+          "open_time": "06:00"
         },
         {
           "close_time": "21:30",
@@ -189242,9 +189137,9 @@
           "open_time": "11:30"
         },
         {
-          "close_time": "21:30",
+          "close_time": "21:00",
           "day": "Saturday",
-          "open_time": "11:30"
+          "open_time": "02:00"
         }
       ],
       "channel": {
@@ -189270,7 +189165,7 @@
       "name": "Gelatissimo Wetherill Patk",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: 11:30-21:00, Mon: 11:30-20:00, Tue: 11:30-20:00, Wed: 11:30-20:00, Thu: 11:30-21:30, Fri: 11:30-21:30, Sat: 11:30-21:30",
+      "operatingHours": "Sun: 02:00-21:00, Mon: 11:30-20:00, Tue: 11:30-20:00, Wed: 11:30-20:00, Thu: 06:00-21:30, Fri: 11:30-21:30, Sat: 02:00-21:00",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -198354,27 +198249,27 @@
         {
           "close_time": "17:00",
           "day": "Monday",
-          "open_time": "09:00"
+          "open_time": "10:00"
         },
         {
           "close_time": "17:00",
           "day": "Tuesday",
-          "open_time": "09:00"
+          "open_time": "10:00"
         },
         {
           "close_time": "17:00",
           "day": "Wednesday",
-          "open_time": "09:00"
+          "open_time": "10:00"
         },
         {
           "close_time": "17:00",
           "day": "Thursday",
-          "open_time": "09:00"
+          "open_time": "10:00"
         },
         {
           "close_time": "17:00",
           "day": "Friday",
-          "open_time": "09:00"
+          "open_time": "10:00"
         },
         {
           "close_time": "Closed",
@@ -198405,7 +198300,7 @@
       "name": "Melrose Park Central Newsagency",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
+      "operatingHours": "Sun: Closed, Mon: 10:00-17:00, Tue: 10:00-17:00, Wed: 10:00-17:00, Thu: 10:00-17:00, Fri: 10:00-17:00, Sat: Closed",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -202673,6 +202568,116 @@
       "storeDlb": "AU009328",
       "storeIcon": null,
       "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Raceview",
+        "country": "Australia",
+        "postcode": "4305",
+        "state": "QLD",
+        "street1": "64 Raceview Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19510,
+      "enabled": true,
+      "hubbedlocation_id": 19510,
+      "lastModifiedDate": null,
+      "latitude": -27.6347352,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 4,
+        "name": "Convenience"
+      },
+      "longitude": 152.7749886,
+      "name": "Raceview Grocery Store",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009339",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     },
     {
