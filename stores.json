@@ -1,5 +1,5 @@
 {
-  "count": 1932,
+  "count": 1930,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -14478,116 +14478,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU004309",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Kogarah",
-        "country": "Australia",
-        "postcode": "2217",
-        "state": "NSW",
-        "street1": "116 Railway Pde",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2787,
-      "enabled": true,
-      "hubbedlocation_id": 2787,
-      "lastModifiedDate": null,
-      "latitude": -33.9645492,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 151.1325009,
-      "name": "Kogarah Convenience Store (Cignall Kogarah)",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 09:00-17:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU004291",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -111984,106 +111874,6 @@
     },
     {
       "address": {
-        "city": "Melbourne",
-        "country": "Australia",
-        "postcode": "3000",
-        "state": "VIC",
-        "street1": "Shop 7/242 Exhibition St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 7432,
-      "enabled": true,
-      "hubbedlocation_id": 7432,
-      "lastModifiedDate": null,
-      "latitude": -37.809851,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 144.9699669,
-      "name": "Exhibition Pharmacy",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-17:00, Tue: 08:00-17:00, Wed: 08:00-17:00, Thu: 08:00-17:00, Fri: 08:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "0419 347 144",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
-      "storeDlb": "AU006405",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Woodcroft",
         "country": "Australia",
         "postcode": "5162",
@@ -160722,7 +160512,7 @@
     },
     {
       "address": {
-        "city": "PENRITH",
+        "city": "Jamisontown",
         "country": "Australia",
         "postcode": "2750",
         "state": "NSW",
