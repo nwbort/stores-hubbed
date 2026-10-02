@@ -38039,12 +38039,12 @@
         "name": "Pharmacy"
       },
       "longitude": 151.0806873,
-      "name": "Mortdale Pharmacy",
+      "name": "TerryWhite Mortdale",
       "offset": "+10:00",
       "openingDays": null,
       "operatingHours": "Sun: 09:00-13:00, Mon: 08:30-19:00, Tue: 08:30-19:00, Wed: 08:30-19:00, Thu: 08:30-19:00, Fri: 08:30-19:00, Sat: 08:30-15:00",
       "packingEnabled": false,
-      "phone": "02 9580 1631",
+      "phone": "0295801631",
       "printingEnabled": false,
       "products": [
         {
@@ -42471,111 +42471,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Normanville",
-        "country": "Australia",
-        "postcode": "5204",
-        "state": "SA",
-        "street1": "Shop2/48 Main street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "14:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3481,
-      "enabled": true,
-      "hubbedlocation_id": 3481,
-      "lastModifiedDate": null,
-      "latitude": -35.4459303,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 138.3172911,
-      "name": "Normanville Newsagency",
-      "offset": "+09:30",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-16:00, Tue: 09:00-16:00, Wed: 09:00-16:00, Thu: 09:00-16:00, Fri: 09:00-16:00, Sat: 09:00-14:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU005977",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "ACDT"
     },
     {
       "address": {
@@ -66414,7 +66309,7 @@
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: 09:00-17:00",
       "packingEnabled": false,
-      "phone": "0432 968 966",
+      "phone": "0432968966",
       "printingEnabled": false,
       "products": [
         {
@@ -67846,7 +67741,7 @@
         }
       ],
       "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
+      "special_instructions": "",
       "storeDlb": "AU005968",
       "storeIcon": null,
       "storeType": "Community",
@@ -149282,6 +149177,116 @@
       "showonmap": true,
       "special_instructions": "FALSE",
       "storeDlb": "AU007684",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
+        "city": "Darlinghurst",
+        "country": "Australia",
+        "postcode": "2010",
+        "state": "NSW",
+        "street1": "179 Darlinghurst Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "22:00",
+          "day": "Sunday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Monday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Tuesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Wednesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Thursday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Friday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "22:00",
+          "day": "Saturday",
+          "open_time": "07:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 11485,
+      "enabled": true,
+      "hubbedlocation_id": 11485,
+      "lastModifiedDate": null,
+      "latitude": -33.8758932,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 1,
+        "name": "Newsagent"
+      },
+      "longitude": 151.2214823,
+      "name": "Firestation Newsagency",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 07:00-22:00, Mon: 07:00-22:00, Tue: 07:00-22:00, Wed: 07:00-22:00, Thu: 07:00-22:00, Fri: 07:00-22:00, Sat: 07:00-22:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "FALSE",
+      "storeDlb": "AU007686",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
