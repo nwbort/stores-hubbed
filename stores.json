@@ -1,5 +1,5 @@
 {
-  "count": 1928,
+  "count": 1927,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -152217,116 +152217,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU007733",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "MOONEE PONDS",
-        "country": "Australia",
-        "postcode": "3039",
-        "state": "VIC",
-        "street1": "22 Pratt St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Saturday",
-          "open_time": "08:30"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 11894,
-      "enabled": true,
-      "hubbedlocation_id": 11894,
-      "lastModifiedDate": null,
-      "latitude": -37.7675542,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 144.9220586,
-      "name": "Moonee Ponds Pharmacy",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:30-18:30, Tue: 08:30-18:30, Wed: 08:30-18:30, Thu: 08:30-18:30, Fri: 08:30-18:30, Sat: 08:30-18:30",
-      "packingEnabled": false,
-      "phone": "0393751000",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU006667",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
