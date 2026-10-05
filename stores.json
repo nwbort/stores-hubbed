@@ -1,5 +1,5 @@
 {
-  "count": 1927,
+  "count": 1925,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -101314,116 +101314,6 @@
     },
     {
       "address": {
-        "city": "Lidcombe",
-        "country": "Australia",
-        "postcode": "2141",
-        "state": "NSW",
-        "street1": "7/2a Vaughan St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "22:00",
-          "day": "Sunday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "22:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 6832,
-      "enabled": true,
-      "hubbedlocation_id": 6832,
-      "lastModifiedDate": null,
-      "latitude": -33.8654312,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 151.0432423,
-      "name": "Candy Mart",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 08:00-22:00, Mon: 07:00-22:00, Tue: 07:00-22:00, Wed: 07:00-22:00, Thu: 07:00-22:00, Fri: 07:00-22:00, Sat: 08:00-22:00",
-      "packingEnabled": false,
-      "phone": "426973722",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007312",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Greenock",
         "country": "Australia",
         "postcode": "5360",
@@ -141368,116 +141258,6 @@
     },
     {
       "address": {
-        "city": "Redcliffe",
-        "country": "Australia",
-        "postcode": "4020",
-        "state": "QLD",
-        "street1": "shop 2/544 Oxley Ave",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "11:00",
-          "day": "Sunday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "05:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Saturday",
-          "open_time": "05:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 9539,
-      "enabled": true,
-      "hubbedlocation_id": 9539,
-      "lastModifiedDate": null,
-      "latitude": -27.217108,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 153.1122489,
-      "name": "Midway Newsagency Redcliffe",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 05:00-11:00, Mon: 05:00-17:00, Tue: 05:00-17:00, Wed: 05:00-17:00, Thu: 05:00-17:00, Fri: 05:00-17:00, Sat: 05:00-17:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007523",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "Barnawartha",
         "country": "Australia",
         "postcode": "3688",
@@ -178237,116 +178017,6 @@
     },
     {
       "address": {
-        "city": "Surfers Paradise",
-        "country": "Australia",
-        "postcode": "4217",
-        "state": "QLD",
-        "street1": "3031 Gold Coast Highway",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 15781,
-      "enabled": true,
-      "hubbedlocation_id": 15781,
-      "lastModifiedDate": null,
-      "latitude": -28.0053253,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 153.4291265,
-      "name": "Nightowl Surfers Paradise South",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008195",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "Bull Creek",
         "country": "Australia",
         "postcode": "6149",
@@ -202341,6 +202011,101 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU009351",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Caboolture",
+        "country": "Australia",
+        "postcode": "4510",
+        "state": "QLD",
+        "street1": "12 Boeing Place",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19672,
+      "enabled": true,
+      "hubbedlocation_id": 19672,
+      "lastModifiedDate": null,
+      "latitude": -27.0829562,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 152.9798103,
+      "name": "Cox Enterprises Caboolture",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009359",
       "storeIcon": null,
       "storeType": "TOLL Depot",
       "timezone": null
