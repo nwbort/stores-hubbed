@@ -1,5 +1,5 @@
 {
-  "count": 1925,
+  "count": 1926,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -308,6 +308,106 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "LOC001638",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
+    },
+    {
+      "address": {
+        "city": "NORTH MELBOURNE",
+        "country": "Australia",
+        "postcode": "3051",
+        "state": "VIC",
+        "street1": "151 Capel St",
+        "street2": ""
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 1647,
+      "enabled": true,
+      "hubbedlocation_id": 1647,
+      "lastModifiedDate": null,
+      "latitude": -37.80436479999999,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 144.9548521,
+      "name": "Kennards North Melbourne Parcelpoint",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 08:30-18:00, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00, Sun: 10:00-16:00",
+      "packingEnabled": false,
+      "phone": "0393489433",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "LOC001647",
       "storeIcon": null,
       "storeType": "Other",
       "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
@@ -11521,116 +11621,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AWST"
-    },
-    {
-      "address": {
-        "city": "Rosebery",
-        "country": "Australia",
-        "postcode": "2018",
-        "state": "NSW",
-        "street1": "463 Gardeners Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2737,
-      "enabled": true,
-      "hubbedlocation_id": 2737,
-      "lastModifiedDate": null,
-      "latitude": -33.9221699,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 7,
-        "name": "Printing & Logistics"
-      },
-      "longitude": 151.1998012,
-      "name": "Cartridge World Rosebery",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-16:00, Tue: 09:00-16:00, Wed: 09:00-16:00, Thu: 09:00-16:00, Fri: 09:00-16:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU005937",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
     },
     {
       "address": {
@@ -44744,106 +44734,6 @@
     },
     {
       "address": {
-        "city": "Cockburn Central",
-        "country": "Australia",
-        "postcode": "6164",
-        "state": "WA",
-        "street1": "Unit 1/5 Parkes Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3522,
-      "enabled": true,
-      "hubbedlocation_id": 3522,
-      "lastModifiedDate": null,
-      "latitude": -32.1175347,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 7,
-        "name": "Printing & Logistics"
-      },
-      "longitude": 115.8388211,
-      "name": "PACK & SEND Bibra Lake",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:30-17:30, Tue: 08:30-17:30, Wed: 08:30-17:30, Thu: 08:30-17:30, Fri: 08:30-17:30, Sat: 09:00-12:00",
-      "packingEnabled": false,
-      "phone": "08 9417 1599",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU002668",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
-    },
-    {
-      "address": {
         "city": "Boronia",
         "country": "Australia",
         "postcode": "3155",
@@ -57254,29 +57144,29 @@
           "open_time": "Closed"
         },
         {
-          "close_time": "17:00",
+          "close_time": "17:30",
           "day": "Monday",
-          "open_time": "08:00"
+          "open_time": "08:30"
         },
         {
-          "close_time": "17:00",
+          "close_time": "17:30",
           "day": "Tuesday",
-          "open_time": "08:00"
+          "open_time": "08:30"
         },
         {
-          "close_time": "17:00",
+          "close_time": "17:30",
           "day": "Wednesday",
-          "open_time": "08:00"
+          "open_time": "08:30"
         },
         {
-          "close_time": "17:00",
+          "close_time": "17:30",
           "day": "Thursday",
-          "open_time": "08:00"
+          "open_time": "08:30"
         },
         {
-          "close_time": "17:00",
+          "close_time": "17:30",
           "day": "Friday",
-          "open_time": "08:00"
+          "open_time": "08:30"
         },
         {
           "close_time": "12:00",
@@ -57307,7 +57197,7 @@
       "name": "St Lucia Newsagency",
       "offset": "+10:00",
       "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-17:00, Tue: 08:00-17:00, Wed: 08:00-17:00, Thu: 08:00-17:00, Fri: 08:00-17:00, Sat: 07:00-12:00",
+      "operatingHours": "Sun: Closed, Mon: 08:30-17:30, Tue: 08:30-17:30, Wed: 08:30-17:30, Thu: 08:30-17:30, Fri: 08:30-17:30, Sat: 07:00-12:00",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -163862,116 +163752,6 @@
     },
     {
       "address": {
-        "city": "Neutral bay",
-        "country": "Australia",
-        "postcode": "2089",
-        "state": "NSW",
-        "street1": "Shop 11/7-17 waters road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "20:00",
-          "day": "Sunday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Monday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Tuesday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Wednesday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Thursday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Friday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Saturday",
-          "open_time": "09:30"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 14264,
-      "enabled": true,
-      "hubbedlocation_id": 14264,
-      "lastModifiedDate": null,
-      "latitude": -33.8303936,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 151.2240465,
-      "name": "RB Mini Mart",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 09:30-20:00, Mon: 09:30-20:00, Tue: 09:30-20:00, Wed: 09:30-20:00, Thu: 09:30-20:00, Fri: 09:30-20:00, Sat: 09:30-20:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU007938",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Yarra Junction",
         "country": "Australia",
         "postcode": "3797",
@@ -188109,16 +187889,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -199647,6 +199417,111 @@
     },
     {
       "address": {
+        "city": "Mandurah",
+        "country": "Australia",
+        "postcode": "6210",
+        "state": "WA",
+        "street1": "43 Anstruther Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "19:00",
+          "day": "Monday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Tuesday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Wednesday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Thursday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Friday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Saturday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "07:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18815,
+      "enabled": true,
+      "hubbedlocation_id": 18815,
+      "lastModifiedDate": null,
+      "latitude": -32.5283933,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 115.7328364,
+      "name": "Sea Breeze Deli",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 06:00-19:00, Tue: 06:00-19:00, Wed: 06:00-19:00, Thu: 06:00-19:00, Fri: 06:00-19:00, Sat: 07:00-16:00, Sun: 07:00-16:00",
+      "packingEnabled": false,
+      "phone": "0490137125",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009254",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": null
+    },
+    {
+      "address": {
         "city": "Viewbank",
         "country": "Australia",
         "postcode": "3084",
@@ -201502,6 +201377,106 @@
     },
     {
       "address": {
+        "city": "Chatswood",
+        "country": "Australia",
+        "postcode": "2065",
+        "state": "NSW",
+        "street1": "26 Smith Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19373,
+      "enabled": true,
+      "hubbedlocation_id": 19373,
+      "lastModifiedDate": null,
+      "latitude": -33.7871424,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 6,
+        "name": "Self Storage"
+      },
+      "longitude": 151.1999829,
+      "name": "Kennards Self Storage Chatswood",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009322",
+      "storeIcon": null,
+      "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
         "city": "Stafford",
         "country": "Australia",
         "postcode": "4053",
@@ -202108,6 +202083,101 @@
       "storeDlb": "AU009359",
       "storeIcon": null,
       "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Brookton",
+        "country": "Australia",
+        "postcode": "6306",
+        "state": "WA",
+        "street1": "103 Robinson Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20098,
+      "enabled": true,
+      "hubbedlocation_id": 20098,
+      "lastModifiedDate": null,
+      "latitude": -32.3681582,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 117.0105711,
+      "name": "Brookton Newsagency",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009373",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     }
   ]
