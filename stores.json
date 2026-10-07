@@ -1,5 +1,5 @@
 {
-  "count": 1926,
+  "count": 1927,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -34571,11 +34571,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
         }
       ],
       "service_type": null,
@@ -51455,6 +51450,11 @@
         {
           "id": 4,
           "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
           "status": true
         }
       ],
@@ -103439,9 +103439,14 @@
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-18:00, Tue: 09:00-18:00, Wed: 09:00-18:00, Thu: 09:00-18:00, Fri: 09:00-18:00, Sat: 09:00-13:00",
       "packingEnabled": false,
-      "phone": "03 9859 1083",
+      "phone": "0398591083",
       "printingEnabled": false,
       "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
         {
           "id": 4,
           "productname": "Return",
@@ -191427,116 +191432,6 @@
     },
     {
       "address": {
-        "city": "Deer Park",
-        "country": "Australia",
-        "postcode": "3023",
-        "state": "VIC",
-        "street1": "Shop 2, 825 Ballarat Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 17491,
-      "enabled": true,
-      "hubbedlocation_id": 17491,
-      "lastModifiedDate": null,
-      "latitude": -37.77025,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 144.7724926,
-      "name": "Asia Lane Grocery",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008598",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Harden",
         "country": "Australia",
         "postcode": "2587",
@@ -200152,6 +200047,111 @@
     },
     {
       "address": {
+        "city": "Wollert",
+        "country": "Australia",
+        "postcode": "3750",
+        "state": "VIC",
+        "street1": "246 Epping Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19111,
+      "enabled": true,
+      "hubbedlocation_id": 19111,
+      "lastModifiedDate": null,
+      "latitude": -37.6166746,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 145.0307757,
+      "name": "Solo Wollert",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009282",
+      "storeIcon": null,
+      "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
         "city": "Maiden Gully",
         "country": "Australia",
         "postcode": "3551",
@@ -202002,6 +202002,101 @@
       "availableDelivery": null,
       "businessHours": [
         {
+          "close_time": "16:30",
+          "day": "Monday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Tuesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Wednesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Thursday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Friday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19672,
+      "enabled": true,
+      "hubbedlocation_id": 19672,
+      "lastModifiedDate": null,
+      "latitude": -27.0829562,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 152.9798103,
+      "name": "Cox Enterprises Caboolture",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 08:00-16:30, Tue: 08:00-16:30, Wed: 08:00-16:30, Thu: 08:00-16:30, Fri: 08:00-16:30, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009359",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Cassilis",
+        "country": "Australia",
+        "postcode": "2329",
+        "state": "NSW",
+        "street1": "18 Buccleugh St",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
           "close_time": "17:00",
           "day": "Monday",
           "open_time": "09:00"
@@ -202046,18 +202141,18 @@
         "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
       },
       "courier": null,
-      "droplocation_id": 19672,
+      "droplocation_id": 19966,
       "enabled": true,
-      "hubbedlocation_id": 19672,
+      "hubbedlocation_id": 19966,
       "lastModifiedDate": null,
-      "latitude": -27.0829562,
+      "latitude": -32.0051525,
       "locationCourierData": null,
       "locationType": {
-        "id": 8,
-        "name": "Other"
+        "id": 4,
+        "name": "Convenience"
       },
-      "longitude": 152.9798103,
-      "name": "Cox Enterprises Caboolture",
+      "longitude": 149.9815101,
+      "name": "Cassilis General Store",
       "offset": null,
       "openingDays": null,
       "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
@@ -202080,9 +202175,9 @@
       ],
       "showonmap": true,
       "special_instructions": "",
-      "storeDlb": "AU009359",
+      "storeDlb": "AU009368",
       "storeIcon": null,
-      "storeType": "TOLL Depot",
+      "storeType": "Independent",
       "timezone": null
     },
     {
