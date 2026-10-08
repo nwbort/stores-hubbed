@@ -7004,7 +7004,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 00:00-23:59, Mon: 00:00-23:59, Tue: 00:00-23:59, Wed: 00:00-23:59, Thu: 00:00-23:59, Fri: 00:00-23:59, Sat: 00:00-23:59",
       "packingEnabled": false,
-      "phone": "02 9610 4554",
+      "phone": "0296104554",
       "printingEnabled": false,
       "products": [
         {
@@ -146328,39 +146328,39 @@
       "availableDelivery": null,
       "businessHours": [
         {
-          "close_time": "15:00",
+          "close_time": "14:00",
           "day": "Sunday",
-          "open_time": "10:30"
+          "open_time": "11:00"
         },
         {
-          "close_time": "19:30",
+          "close_time": "18:00",
           "day": "Monday",
-          "open_time": "08:00"
+          "open_time": "10:00"
         },
         {
-          "close_time": "19:30",
+          "close_time": "18:00",
           "day": "Tuesday",
-          "open_time": "08:00"
+          "open_time": "10:00"
         },
         {
-          "close_time": "19:30",
+          "close_time": "18:00",
           "day": "Wednesday",
-          "open_time": "08:00"
+          "open_time": "10:00"
         },
         {
-          "close_time": "19:30",
+          "close_time": "18:00",
           "day": "Thursday",
-          "open_time": "08:00"
+          "open_time": "10:00"
         },
         {
-          "close_time": "19:30",
+          "close_time": "18:00",
           "day": "Friday",
-          "open_time": "08:00"
+          "open_time": "10:00"
         },
         {
-          "close_time": "19:00",
+          "close_time": "14:00",
           "day": "Saturday",
-          "open_time": "09:30"
+          "open_time": "11:00"
         }
       ],
       "channel": {
@@ -146386,7 +146386,7 @@
       "name": "Treats N Needs",
       "offset": "+11:00",
       "openingDays": null,
-      "operatingHours": "Sun: 10:30-15:00, Mon: 08:00-19:30, Tue: 08:00-19:30, Wed: 08:00-19:30, Thu: 08:00-19:30, Fri: 08:00-19:30, Sat: 09:30-19:00",
+      "operatingHours": "Sun: 11:00-14:00, Mon: 10:00-18:00, Tue: 10:00-18:00, Wed: 10:00-18:00, Thu: 10:00-18:00, Fri: 10:00-18:00, Sat: 11:00-14:00",
       "packingEnabled": false,
       "phone": "1300482233",
       "printingEnabled": false,
@@ -188242,6 +188242,116 @@
     },
     {
       "address": {
+        "city": "Redbank Plains",
+        "country": "Australia",
+        "postcode": "4301",
+        "state": "QLD",
+        "street1": "Shop 3, 171 School Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Sunday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Monday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Tuesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Wednesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "20:00",
+          "day": "Thursday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "20:00",
+          "day": "Friday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "20:00",
+          "day": "Saturday",
+          "open_time": "08:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 17095,
+      "enabled": true,
+      "hubbedlocation_id": 17095,
+      "lastModifiedDate": null,
+      "latitude": -27.6637242,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 152.8495618,
+      "name": "Cignall Redbank Plains",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 09:00-17:00, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-20:00, Fri: 07:00-20:00, Sat: 08:00-20:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008504",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEST"
+    },
+    {
+      "address": {
         "city": "Dimbulah",
         "country": "Australia",
         "postcode": "4872",
@@ -191529,116 +191639,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Brendale",
-        "country": "Australia",
-        "postcode": "4500",
-        "state": "QLD",
-        "street1": "5/18-22 Kremzow Road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 17494,
-      "enabled": true,
-      "hubbedlocation_id": 17494,
-      "lastModifiedDate": null,
-      "latitude": -27.3176241,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 152.9871448,
-      "name": "Greenease Dispensary Brendale",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008600",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
     },
     {
       "address": {
