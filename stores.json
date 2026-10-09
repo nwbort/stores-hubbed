@@ -1,5 +1,5 @@
 {
-  "count": 1927,
+  "count": 1928,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -91059,116 +91059,6 @@
     },
     {
       "address": {
-        "city": "Woolloongabba",
-        "country": "Australia",
-        "postcode": "4102",
-        "state": "QLD",
-        "street1": "Level 4/20 Cornwall St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 4439,
-      "enabled": true,
-      "hubbedlocation_id": 4439,
-      "lastModifiedDate": null,
-      "latitude": -27.4999053,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 153.0305732,
-      "name": "Cornwall Street Pharmacy",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-17:00, Tue: 08:00-17:00, Wed: 08:00-17:00, Thu: 08:00-17:00, Fri: 08:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "+6132174074",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007107",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "Kingaroy",
         "country": "Australia",
         "postcode": "4610",
@@ -138019,6 +137909,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         }
       ],
@@ -191447,6 +191342,116 @@
     },
     {
       "address": {
+        "city": "Modbury Heights",
+        "country": "Australia",
+        "postcode": "5092",
+        "state": "SA",
+        "street1": "Shop 5A/172 Ladywood Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 17433,
+      "enabled": true,
+      "hubbedlocation_id": 17433,
+      "lastModifiedDate": null,
+      "latitude": -34.8095913,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 5,
+        "name": "Shopping Centre"
+      },
+      "longitude": 138.6854636,
+      "name": "Modbury Heights Lottery and Gift Vibes",
+      "offset": "+10:30",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 09:00-18:00, Tue: 09:00-18:00, Wed: 09:00-18:00, Thu: 09:00-19:00, Fri: 09:00-18:00, Sat: 09:00-17:00",
+      "packingEnabled": false,
+      "phone": "0421299007",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008584",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "ACDT"
+    },
+    {
+      "address": {
         "city": "Altona Meadows",
         "country": "Australia",
         "postcode": "3028",
@@ -199821,6 +199826,106 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU009261",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Brunswick",
+        "country": "Australia",
+        "postcode": "3056",
+        "state": "VIC",
+        "street1": "338-340 Albert St",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Sunday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18823,
+      "enabled": true,
+      "hubbedlocation_id": 18823,
+      "lastModifiedDate": null,
+      "latitude": -37.7682642,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 144.9548666,
+      "name": "Kennards Self Storage Brunswick VIC",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-18:00, Tue: 09:00-18:00, Wed: 09:00-18:00, Thu: 09:00-18:00, Fri: 09:00-18:00, Sat: 09:00-18:00, Sun: 09:00-18:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009262",
       "storeIcon": null,
       "storeType": "Other",
       "timezone": null
