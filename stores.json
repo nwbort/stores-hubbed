@@ -1,5 +1,5 @@
 {
-  "count": 1928,
+  "count": 1931,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -91059,6 +91059,116 @@
     },
     {
       "address": {
+        "city": "Beckenham",
+        "country": "Australia",
+        "postcode": "6107",
+        "state": "WA",
+        "street1": "Shop 8/194 William Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 4462,
+      "enabled": true,
+      "hubbedlocation_id": 4462,
+      "lastModifiedDate": null,
+      "latitude": -32.0139564,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 3,
+        "name": "Pharmacy"
+      },
+      "longitude": 115.9658052,
+      "name": "Beckenham Pharmacy",
+      "offset": "+08:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 08:30-18:00, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00",
+      "packingEnabled": false,
+      "phone": "0894514441",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "FALSE",
+      "storeDlb": "AU007111",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AWST"
+    },
+    {
+      "address": {
         "city": "Kingaroy",
         "country": "Australia",
         "postcode": "4610",
@@ -118309,9 +118419,14 @@
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 08:00-18:00, Tue: 08:00-18:00, Wed: 08:00-18:00, Thu: 08:00-18:00, Fri: 08:00-18:00, Sat: 08:00-12:30",
       "packingEnabled": false,
-      "phone": "07 5576 2088",
+      "phone": "0755762088",
       "printingEnabled": false,
       "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
         {
           "id": 4,
           "productname": "Return",
@@ -197784,11 +197899,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -202378,6 +202488,211 @@
       "storeDlb": "AU009373",
       "storeIcon": null,
       "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Daylesford",
+        "country": "Australia",
+        "postcode": "3460",
+        "state": "VIC",
+        "street1": "143 Vincent Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "16:00",
+          "day": "Monday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Tuesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Wednesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Thursday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Friday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Saturday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "08:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20263,
+      "enabled": true,
+      "hubbedlocation_id": 20263,
+      "lastModifiedDate": null,
+      "latitude": -37.3476289,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 144.1425254,
+      "name": "Location Import Updated 2",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 08:00-16:00, Tue: 08:00-16:00, Wed: 08:00-16:00, Thu: 08:00-16:00, Fri: 08:00-16:00, Sat: 08:00-16:00, Sun: 08:00-16:00",
+      "packingEnabled": false,
+      "phone": "765299122",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009379",
+      "storeIcon": null,
+      "storeType": "BP Corporate",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Forest Hill",
+        "country": "Australia",
+        "postcode": "3131",
+        "state": "VIC",
+        "street1": "260 Canterbury Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Tuesday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Wednesday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Thursday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Friday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20296,
+      "enabled": true,
+      "hubbedlocation_id": 20296,
+      "lastModifiedDate": null,
+      "latitude": -37.8343459,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 145.1636973,
+      "name": "24Xpress Forest Hill Chase Lockerpoint",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: Closed, Tue: Closed, Wed: Closed, Thu: Closed, Fri: Closed, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009380",
+      "storeIcon": null,
+      "storeType": "Last K Lockers",
       "timezone": null
     }
   ]
