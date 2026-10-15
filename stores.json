@@ -57679,116 +57679,6 @@
     },
     {
       "address": {
-        "city": "Summer Hill",
-        "country": "Australia",
-        "postcode": "2130",
-        "state": "NSW",
-        "street1": "4 Lackey Street",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "12:30",
-          "day": "Sunday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Saturday",
-          "open_time": "07:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3763,
-      "enabled": true,
-      "hubbedlocation_id": 3763,
-      "lastModifiedDate": null,
-      "latitude": -33.8906893,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 151.1387339,
-      "name": "Summer Hill Newsagency",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:00-12:30, Mon: 07:00-18:00, Tue: 07:00-18:00, Wed: 07:00-18:00, Thu: 07:00-18:00, Fri: 07:00-18:00, Sat: 07:00-17:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU001697",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Sunshine West",
         "country": "Australia",
         "postcode": "3020",
@@ -138030,6 +137920,11 @@
           "id": 4,
           "productname": "Return",
           "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
         }
       ],
       "service_type": null,
@@ -182256,7 +182151,7 @@
         "country": "Australia",
         "postcode": "2148",
         "state": "NSW",
-        "street1": "10-12 Flushcombe Rd",
+        "street1": "Shop G04 22 Main Street",
         "street2": null
       },
       "availableDelivery": null,
@@ -182310,13 +182205,13 @@
       "enabled": true,
       "hubbedlocation_id": 16348,
       "lastModifiedDate": null,
-      "latitude": -33.7700992,
+      "latitude": -33.7691823,
       "locationCourierData": null,
       "locationType": {
         "id": 7,
         "name": "Printing & Logistics"
       },
-      "longitude": 150.9087142,
+      "longitude": 150.9075553,
       "name": "Mail Boxes Etc Blacktown",
       "offset": "+11:00",
       "openingDays": null,
@@ -198352,116 +198247,6 @@
     },
     {
       "address": {
-        "city": "Melbourne",
-        "country": "Australia",
-        "postcode": "3004",
-        "state": "VIC",
-        "street1": "3/401 St Kilda Road,",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 18385,
-      "enabled": true,
-      "hubbedlocation_id": 18385,
-      "lastModifiedDate": null,
-      "latitude": -37.83565,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 144.975671,
-      "name": "The Melbourne Wine Store",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "0469621728",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008809",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Cumnock",
         "country": "Australia",
         "postcode": "2867",
@@ -199526,6 +199311,111 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU009254",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "MERMAID BEACH",
+        "country": "Australia",
+        "postcode": "4218",
+        "state": "QLD",
+        "street1": "2/2482 Gold Coast Hwy,Mermaid Beach 4218",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18817,
+      "enabled": true,
+      "hubbedlocation_id": 18817,
+      "lastModifiedDate": null,
+      "latitude": -28.0439573,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 153.4342956,
+      "name": "8 Stars Grocer",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "0452456756",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009256",
       "storeIcon": null,
       "storeType": "Other",
       "timezone": null
@@ -202106,6 +201996,116 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU009340",
+      "storeIcon": null,
+      "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Willagee",
+        "country": "Australia",
+        "postcode": "6156",
+        "state": "WA",
+        "street1": "4A Webber Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19516,
+      "enabled": true,
+      "hubbedlocation_id": 19516,
+      "lastModifiedDate": null,
+      "latitude": -32.0498113,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 115.7945779,
+      "name": "Willagee Park Newsagency",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009345",
       "storeIcon": null,
       "storeType": "Independent",
       "timezone": null
