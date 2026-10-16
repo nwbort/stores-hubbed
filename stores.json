@@ -1,5 +1,5 @@
 {
-  "count": 1933,
+  "count": 1932,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -20676,11 +20676,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -27046,116 +27041,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Hillarys",
-        "country": "Australia",
-        "postcode": "6025",
-        "state": "WA",
-        "street1": "32/110 Flinders Avenue",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "20:30",
-          "day": "Sunday",
-          "open_time": "09:30"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3010,
-      "enabled": true,
-      "hubbedlocation_id": 3010,
-      "lastModifiedDate": null,
-      "latitude": -31.8094567,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 115.7433442,
-      "name": "Hillarys Community Pharmacy",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 09:30-20:30, Mon: 08:00-19:00, Tue: 08:00-19:00, Wed: 08:00-19:00, Thu: 08:00-19:00, Fri: 08:00-19:00, Sat: 08:00-17:00",
-      "packingEnabled": false,
-      "phone": "08 9403 7725",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU002751",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
     },
     {
       "address": {
@@ -71389,7 +71274,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 06:30-12:00, Mon: 06:30-17:00, Tue: 06:30-17:00, Wed: 06:30-17:00, Thu: 06:30-17:00, Fri: 06:30-17:00, Sat: 06:30-15:00",
       "packingEnabled": false,
-      "phone": "0410 314 602",
+      "phone": "0410314602",
       "printingEnabled": false,
       "products": [
         {
@@ -160736,7 +160621,7 @@
         "country": "Australia",
         "postcode": "2357",
         "state": "NSW",
-        "street1": "365 Gardener Street",
+        "street1": "14-16 Drummond Street",
         "street2": null
       },
       "availableDelivery": null,
@@ -160790,13 +160675,13 @@
       "enabled": true,
       "hubbedlocation_id": 14060,
       "lastModifiedDate": null,
-      "latitude": -31.2584294,
+      "latitude": -31.268702,
       "locationCourierData": null,
       "locationType": {
         "id": 7,
         "name": "Printing & Logistics"
       },
-      "longitude": 149.2850405,
+      "longitude": 149.2830783,
       "name": "Bonnie Vue",
       "offset": "+11:00",
       "openingDays": null,
