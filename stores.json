@@ -1,7 +1,112 @@
 {
-  "count": 1932,
+  "count": 1935,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
+    {
+      "address": {
+        "city": "ERINA",
+        "country": "Australia",
+        "postcode": "2250",
+        "state": "NSW",
+        "street1": "151 The Entrance Rd",
+        "street2": ""
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 1615,
+      "enabled": true,
+      "hubbedlocation_id": 1615,
+      "lastModifiedDate": null,
+      "latitude": -33.4379569,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 151.3794921,
+      "name": "Kennards Erina Parcelpoint",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: Closed, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00, Sun: 10:00-16:00",
+      "packingEnabled": false,
+      "phone": "0243652911",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "LOC001615",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
+    },
     {
       "address": {
         "city": "FRENCHS FOREST",
@@ -189299,6 +189404,11 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
         }
       ],
       "service_type": null,
@@ -196842,6 +196952,116 @@
     },
     {
       "address": {
+        "city": "Truganina",
+        "country": "Australia",
+        "postcode": "3029",
+        "state": "VIC",
+        "street1": "174/150 Palmers Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Saturday",
+          "open_time": "10:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 18026,
+      "enabled": true,
+      "hubbedlocation_id": 18026,
+      "lastModifiedDate": null,
+      "latitude": -37.8435563,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 144.747174,
+      "name": "Shrees Fashion",
+      "offset": "+11:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 10:00-18:00, Mon: 10:00-18:00, Tue: 10:00-18:00, Wed: 10:00-18:00, Thu: 10:00-18:00, Fri: 10:00-18:00, Sat: 10:00-18:00",
+      "packingEnabled": false,
+      "phone": "0420556494",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008757",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
         "city": "Melrose Park",
         "country": "Australia",
         "postcode": "2114",
@@ -198674,7 +198894,7 @@
       "address": {
         "city": "West Footscray",
         "country": "Australia",
-        "postcode": "3023",
+        "postcode": "3012",
         "state": "VIC",
         "street1": "1B Ormond",
         "street2": null
@@ -202773,6 +202993,116 @@
       "storeDlb": "AU009381",
       "storeIcon": null,
       "storeType": "Last K Lockers",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Moorooka",
+        "country": "Australia",
+        "postcode": "4105",
+        "state": "QLD",
+        "street1": "Shop 2/156 Beaudesert Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20331,
+      "enabled": true,
+      "hubbedlocation_id": 20331,
+      "lastModifiedDate": null,
+      "latitude": -27.5321032,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 153.0246675,
+      "name": "Cheap Flight Travel",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009384",
+      "storeIcon": null,
+      "storeType": "Independent",
       "timezone": null
     }
   ]
