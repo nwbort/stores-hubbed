@@ -419,6 +419,111 @@
     },
     {
       "address": {
+        "city": "MURARRIE",
+        "country": "Australia",
+        "postcode": "4172",
+        "state": "QLD",
+        "street1": "801 Lytton Rd",
+        "street2": ""
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 1643,
+      "enabled": true,
+      "hubbedlocation_id": 1643,
+      "lastModifiedDate": null,
+      "latitude": -27.4571163,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 153.099856,
+      "name": "Kennards Murarrie Parcelpoint",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: Closed, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00, Sun: 10:00-16:00",
+      "packingEnabled": false,
+      "phone": "0738908854",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "LOC001643",
+      "storeIcon": null,
+      "storeType": "Other",
+      "timezone": "(GMT+10:00) Sydney --Australia/Sydney"
+    },
+    {
+      "address": {
         "city": "NORTH MELBOURNE",
         "country": "Australia",
         "postcode": "3051",
@@ -16279,7 +16384,7 @@
       "openingDays": null,
       "operatingHours": "Sun: 07:00-16:00, Mon: 07:00-18:00, Tue: 07:00-18:00, Wed: 07:00-18:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 07:00-17:00",
       "packingEnabled": false,
-      "phone": "02 6288 4448",
+      "phone": "0262884448",
       "printingEnabled": false,
       "products": [
         {
@@ -16290,16 +16395,6 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
           "status": true
         }
       ],
@@ -131158,106 +131253,6 @@
     },
     {
       "address": {
-        "city": "North Melbourne",
-        "country": "Australia",
-        "postcode": "3051",
-        "state": "VIC",
-        "street1": "67 Errol St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "15:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 7702,
-      "enabled": true,
-      "hubbedlocation_id": 7702,
-      "lastModifiedDate": null,
-      "latitude": -37.8035451,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 3,
-        "name": "Pharmacy"
-      },
-      "longitude": 144.9493637,
-      "name": "AMCAL NORTH MELBOURNE",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:30-18:30, Tue: 08:30-18:30, Wed: 08:30-18:30, Thu: 08:30-18:30, Fri: 08:30-18:30, Sat: 09:00-15:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
-      "storeDlb": "AU006270",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Neutral Bay",
         "country": "Australia",
         "postcode": "2089",
@@ -202288,6 +202283,11 @@
         {
           "id": 3,
           "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
           "status": true
         },
         {
