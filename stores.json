@@ -1,5 +1,5 @@
 {
-  "count": 1940,
+  "count": 1941,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -110433,6 +110433,11 @@
       "printingEnabled": false,
       "products": [
         {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
           "id": 4,
           "productname": "Return",
           "status": true
@@ -111448,106 +111453,6 @@
       "showonmap": true,
       "special_instructions": "Return/Sendle Only",
       "storeDlb": "AU004347",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Clayton",
-        "country": "Australia",
-        "postcode": "3168",
-        "state": "VIC",
-        "street1": "1917 Dandenong Road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "20:00",
-          "day": "Sunday",
-          "open_time": "13:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Monday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Tuesday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Wednesday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Thursday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Friday",
-          "open_time": "11:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Saturday",
-          "open_time": "11:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 7431,
-      "enabled": true,
-      "hubbedlocation_id": 7431,
-      "lastModifiedDate": null,
-      "latitude": -37.9113838,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 145.1230896,
-      "name": "Everyday Supermarket",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 13:00-20:00, Mon: 11:00-20:00, Tue: 11:00-20:00, Wed: 11:00-20:00, Thu: 11:00-20:00, Fri: 11:00-20:00, Sat: 11:00-20:00",
-      "packingEnabled": false,
-      "phone": "0395589698",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Return/Sendle Only",
-      "storeDlb": "AU006050",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -147487,6 +147392,101 @@
       "showonmap": true,
       "special_instructions": "FALSE",
       "storeDlb": "AU007655",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
+        "city": "Newport",
+        "country": "Australia",
+        "postcode": "3015",
+        "state": "VIC",
+        "street1": "48 Challis St",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "12:00",
+          "day": "Saturday",
+          "open_time": "08:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 10896,
+      "enabled": true,
+      "hubbedlocation_id": 10896,
+      "lastModifiedDate": null,
+      "latitude": -37.8457437,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 1,
+        "name": "Newsagent"
+      },
+      "longitude": 144.8729762,
+      "name": "Newport West Newsagency Challis St.",
+      "offset": "+11:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: 08:00-12:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "FALSE",
+      "storeDlb": "AU007660",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -201383,6 +201383,111 @@
       "storeDlb": "AU009296",
       "storeIcon": null,
       "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Morley",
+        "country": "Australia",
+        "postcode": "6062",
+        "state": "WA",
+        "street1": "60 Russell St",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Monday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Saturday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Sunday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19241,
+      "enabled": true,
+      "hubbedlocation_id": 19241,
+      "lastModifiedDate": null,
+      "latitude": -31.8967353,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 115.8957036,
+      "name": "Bishop St News",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 08:00-18:00, Tue: 08:00-18:00, Wed: 08:00-18:00, Thu: 08:00-18:00, Fri: 08:00-18:00, Sat: 08:00-18:00, Sun: 09:00-17:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009306",
+      "storeIcon": null,
+      "storeType": "Newsagent",
       "timezone": null
     },
     {
