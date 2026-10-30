@@ -1,5 +1,5 @@
 {
-  "count": 1941,
+  "count": 1943,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -111264,6 +111264,101 @@
     },
     {
       "address": {
+        "city": "Erskineville",
+        "country": "Australia",
+        "postcode": "2043",
+        "state": "NSW",
+        "street1": "83 Erskineville Road",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Sunday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Monday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Tuesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Wednesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Thursday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Friday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 7428,
+      "enabled": true,
+      "hubbedlocation_id": 7428,
+      "lastModifiedDate": null,
+      "latitude": -33.9000528,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 3,
+        "name": "Pharmacy"
+      },
+      "longitude": 151.1845002,
+      "name": "Erskineville Chemist",
+      "offset": "+11:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 09:00-18:00, Mon: 08:00-19:00, Tue: 08:00-19:00, Wed: 08:00-19:00, Thu: 08:00-19:00, Fri: 08:00-19:00, Sat: 09:00-18:00",
+      "packingEnabled": false,
+      "phone": "0437748355",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "Return/Sendle Only",
+      "storeDlb": "AU006117",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
         "city": "Euroa",
         "country": "Australia",
         "postcode": "3666",
@@ -133975,6 +134070,106 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AWST"
+    },
+    {
+      "address": {
+        "city": "Miami",
+        "country": "Australia",
+        "postcode": "4220",
+        "state": "QLD",
+        "street1": "Shop 1, 2088 Gold Coast Hwy",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "18:00",
+          "day": "Sunday",
+          "open_time": "06:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Monday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Tuesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Wednesday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Thursday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Friday",
+          "open_time": "07:00"
+        },
+        {
+          "close_time": "19:00",
+          "day": "Saturday",
+          "open_time": "06:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 8055,
+      "enabled": true,
+      "hubbedlocation_id": 8055,
+      "lastModifiedDate": null,
+      "latitude": -28.0673623,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 4,
+        "name": "Convenience"
+      },
+      "longitude": 153.4402815,
+      "name": "The Farm at Miami",
+      "offset": "+10:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 06:00-18:00, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 06:00-19:00",
+      "packingEnabled": false,
+      "phone": "481439974",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "FALSE",
+      "storeDlb": "AU007400",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEST"
     },
     {
       "address": {
@@ -189699,11 +189894,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
         }
       ],
       "service_type": null,
@@ -201473,6 +201663,11 @@
         {
           "id": 4,
           "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
           "status": true
         }
       ],
