@@ -1,5 +1,5 @@
 {
-  "count": 1943,
+  "count": 1942,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -132582,7 +132582,7 @@
         "country": "Australia",
         "postcode": "5255",
         "state": "SA",
-        "street1": "1/4 Donald St",
+        "street1": "2/13 Dawson St",
         "street2": null
       },
       "availableDelivery": null,
@@ -132636,13 +132636,13 @@
       "enabled": true,
       "hubbedlocation_id": 7861,
       "lastModifiedDate": null,
-      "latitude": -35.2596372,
+      "latitude": -35.2598368,
       "locationCourierData": null,
       "locationType": {
         "id": 8,
         "name": "Other"
       },
-      "longitude": 138.8914666,
+      "longitude": 138.8911526,
       "name": "S&N Phones And IT Solutions",
       "offset": "+10:30",
       "openingDays": null,
@@ -133520,116 +133520,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Perth",
-        "country": "Australia",
-        "postcode": "6000",
-        "state": "WA",
-        "street1": "122 Barrack St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "20:00",
-          "day": "Sunday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "20:00",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 7987,
-      "enabled": true,
-      "hubbedlocation_id": 7987,
-      "lastModifiedDate": null,
-      "latitude": -31.9531326,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 115.8611863,
-      "name": "HUFF & PUFF",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 08:00-20:00, Mon: 08:00-20:00, Tue: 08:00-20:00, Wed: 08:00-20:00, Thu: 08:00-20:00, Fri: 08:00-20:00, Sat: 08:00-20:00",
-      "packingEnabled": false,
-      "phone": "447204813",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007389",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
     },
     {
       "address": {
