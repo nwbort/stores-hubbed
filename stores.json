@@ -36594,12 +36594,12 @@
         "name": "Convenience"
       },
       "longitude": 144.5841077,
-      "name": "Melton Lotto & TSG",
+      "name": "Melton Lotto & News",
       "offset": "+11:00",
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:30, Tue: 09:00-17:30, Wed: 09:00-17:30, Thu: 09:00-18:30, Fri: 09:00-17:30, Sat: 09:00-18:30",
       "packingEnabled": false,
-      "phone": "03 9743 2725",
+      "phone": "0397432725",
       "printingEnabled": false,
       "products": [
         {
@@ -143308,6 +143308,106 @@
     },
     {
       "address": {
+        "city": "Pakenham",
+        "country": "Australia",
+        "postcode": "3810",
+        "state": "VIC",
+        "street1": "4 Peet Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "16:00",
+          "day": "Sunday",
+          "open_time": "10:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Tuesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Wednesday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Thursday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "18:00",
+          "day": "Friday",
+          "open_time": "08:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Saturday",
+          "open_time": "09:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 10172,
+      "enabled": true,
+      "hubbedlocation_id": 10172,
+      "lastModifiedDate": null,
+      "latitude": -38.0886795,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 6,
+        "name": "Self Storage"
+      },
+      "longitude": 145.491234,
+      "name": "Kennards Pakenham",
+      "offset": "+11:00",
+      "openingDays": null,
+      "operatingHours": "Sun: 10:00-16:00, Mon: Closed, Tue: 08:30-18:00, Wed: 08:30-18:00, Thu: 08:30-18:00, Fri: 08:30-18:00, Sat: 09:00-17:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "Active map off",
+      "storeDlb": "AU007572",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
         "city": "Howlong",
         "country": "Australia",
         "postcode": "2643",
@@ -175574,16 +175674,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -185159,116 +185249,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEST"
-    },
-    {
-      "address": {
-        "city": "Preston",
-        "country": "Australia",
-        "postcode": "3072",
-        "state": "VIC",
-        "street1": "136 Regent St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 16802,
-      "enabled": true,
-      "hubbedlocation_id": 16802,
-      "lastModifiedDate": null,
-      "latitude": -37.7291897,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 144.9918844,
-      "name": "Regent West Lpo",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:30-17:30, Tue: 08:30-17:30, Wed: 08:30-17:30, Thu: 08:30-17:30, Fri: 08:30-17:30, Sat: 09:00-16:00",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008441",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
     },
     {
       "address": {
