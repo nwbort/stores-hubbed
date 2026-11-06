@@ -147350,16 +147350,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -148706,11 +148696,6 @@
       "phone": "0298915188",
       "printingEnabled": false,
       "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
         {
           "id": 5,
           "productname": "Send",
