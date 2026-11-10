@@ -1,5 +1,5 @@
 {
-  "count": 1940,
+  "count": 1941,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -35525,6 +35525,11 @@
         {
           "id": 4,
           "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
           "status": true
         }
       ],
@@ -176316,6 +176321,116 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU008159",
+      "storeIcon": null,
+      "storeType": "Community",
+      "timezone": "AEDT"
+    },
+    {
+      "address": {
+        "city": "Sunshine West",
+        "country": "Australia",
+        "postcode": "3020",
+        "state": "VIC",
+        "street1": "72 Enterprise Way",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "16:30",
+          "day": "Friday",
+          "open_time": "08:00"
+        },
+        {
+          "close_time": "12:00",
+          "day": "Saturday",
+          "open_time": "08:00"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 15742,
+      "enabled": true,
+      "hubbedlocation_id": 15742,
+      "lastModifiedDate": null,
+      "latitude": -37.8128679,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 144.8251009,
+      "name": "Agency Spare Parts",
+      "offset": "+11:00",
+      "openingDays": null,
+      "operatingHours": "Sun: Closed, Mon: 08:00-17:00, Tue: 08:00-17:00, Wed: 08:00-17:00, Thu: 08:00-17:00, Fri: 08:00-16:30, Sat: 08:00-12:00",
+      "packingEnabled": false,
+      "phone": "412312934",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU008167",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
