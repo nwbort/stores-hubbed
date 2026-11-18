@@ -1,5 +1,5 @@
 {
-  "count": 1941,
+  "count": 1943,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -72519,12 +72519,12 @@
         "name": "Newsagent"
       },
       "longitude": 115.8876698,
-      "name": "Willetton Newagency",
+      "name": "Willetton Newsagency",
       "offset": "+08:00",
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 08:30-17:30, Tue: 08:30-17:30, Wed: 08:30-17:30, Thu: 08:30-17:30, Fri: 08:30-17:30, Sat: 08:30-17:30",
       "packingEnabled": false,
-      "phone": "08 9457 1221",
+      "phone": "0894571221",
       "printingEnabled": false,
       "products": [
         {
@@ -119166,6 +119166,16 @@
       "phone": "1300482233",
       "printingEnabled": false,
       "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
         {
           "id": 4,
           "productname": "Return",
@@ -202302,6 +202312,116 @@
     },
     {
       "address": {
+        "city": "Bellmere",
+        "country": "Australia",
+        "postcode": "4510",
+        "state": "QLD",
+        "street1": "Shop 11 96-110 Bellmere Rd",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 19521,
+      "enabled": true,
+      "hubbedlocation_id": 19521,
+      "lastModifiedDate": null,
+      "latitude": -27.0900204,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 152.9267559,
+      "name": "Bellmere Lotto And Gifts",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009350",
+      "storeIcon": null,
+      "storeType": "NLNA",
+      "timezone": null
+    },
+    {
+      "address": {
         "city": "Augusta",
         "country": "Australia",
         "postcode": "6290",
@@ -203608,6 +203728,101 @@
       "storeDlb": "AU009400",
       "storeIcon": null,
       "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Karratha",
+        "country": "Australia",
+        "postcode": "6714",
+        "state": "WA",
+        "street1": "UNIT 4 3873 Pemberton way",
+        "street2": ""
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "Closed",
+          "day": "Monday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Tuesday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Wednesday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Thursday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Friday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20857,
+      "enabled": true,
+      "hubbedlocation_id": 20857,
+      "lastModifiedDate": null,
+      "latitude": -20.764298,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 116.8832547,
+      "name": "Macson Pilots and Logistics pty ltd",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: Closed, Tue: Closed, Wed: Closed, Thu: Closed, Fri: Closed, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "0439984331",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009427",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
       "timezone": null
     }
   ]
