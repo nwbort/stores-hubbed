@@ -1,5 +1,5 @@
 {
-  "count": 1943,
+  "count": 1941,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -95834,106 +95834,6 @@
     },
     {
       "address": {
-        "city": "Wingfield",
-        "country": "Australia",
-        "postcode": "5013",
-        "state": "SA",
-        "street1": "Warehouse 3, 404 Hanson Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:30",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "12:00",
-          "day": "Saturday",
-          "open_time": "09:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 5679,
-      "enabled": true,
-      "hubbedlocation_id": 5679,
-      "lastModifiedDate": null,
-      "latitude": -34.839336,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 7,
-        "name": "Printing & Logistics"
-      },
-      "longitude": 138.5463692,
-      "name": "Pack & Send Gepps Cross",
-      "offset": "+10:30",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:30-17:30, Tue: 08:30-17:30, Wed: 08:30-17:30, Thu: 08:30-17:30, Fri: 08:30-17:30, Sat: 09:00-12:00",
-      "packingEnabled": false,
-      "phone": "0417 198 181",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "FALSE",
-      "storeDlb": "AU007223",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "ACDT"
-    },
-    {
-      "address": {
         "city": "Douglas",
         "country": "Australia",
         "postcode": "4814",
@@ -110179,7 +110079,7 @@
         "name": "Pharmacy"
       },
       "longitude": 138.5349214,
-      "name": "Customcare Pharmacy",
+      "name": "Lockleys Compounding Pharmacy",
       "offset": "+10:30",
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:30, Tue: 09:00-17:30, Wed: 09:00-17:30, Thu: 09:00-17:30, Fri: 09:00-17:30, Sat: 09:00-12:00",
@@ -182457,106 +182357,6 @@
     },
     {
       "address": {
-        "city": "Monto",
-        "country": "Australia",
-        "postcode": "4630",
-        "state": "QLD",
-        "street1": "16 Lister St",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 16350,
-      "enabled": true,
-      "hubbedlocation_id": 16350,
-      "lastModifiedDate": null,
-      "latitude": -24.8651165,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 8,
-        "name": "Other"
-      },
-      "longitude": 151.1202923,
-      "name": "Monto Auto And Towing",
-      "offset": "+10:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008363",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEST"
-    },
-    {
-      "address": {
         "city": "Charters Towers City",
         "country": "Australia",
         "postcode": "4820",
@@ -186627,7 +186427,7 @@
         "name": "Other"
       },
       "longitude": 152.7633928,
-      "name": "The Vacuum Shop",
+      "name": "ABCD Clean Ipswich",
       "offset": "+10:00",
       "openingDays": null,
       "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: 09:00-14:00",
