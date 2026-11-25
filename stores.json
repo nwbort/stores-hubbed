@@ -1,5 +1,5 @@
 {
-  "count": 1938,
+  "count": 1935,
   "source": "https://production-api.hubbed.com.au/v1/hubbed/storelocations",
   "stores": [
     {
@@ -2993,116 +2993,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU003026",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Hawthorn East",
-        "country": "Australia",
-        "postcode": "3123",
-        "state": "VIC",
-        "street1": "289 Auburn road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Monday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Tuesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Wednesday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Thursday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:00",
-          "day": "Friday",
-          "open_time": "08:00"
-        },
-        {
-          "close_time": "18:30",
-          "day": "Saturday",
-          "open_time": "08:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2369,
-      "enabled": true,
-      "hubbedlocation_id": 2369,
-      "lastModifiedDate": null,
-      "latitude": -37.8303616,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 145.0437659,
-      "name": "Auburn South Newsagency",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 08:00-18:00, Tue: 08:00-18:30, Wed: 08:00-18:00, Thu: 08:00-18:30, Fri: 08:00-18:00, Sat: 08:00-18:30",
-      "packingEnabled": false,
-      "phone": "0426698282",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU005008",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -19674,116 +19564,6 @@
     },
     {
       "address": {
-        "city": "East Hills",
-        "country": "Australia",
-        "postcode": "2213",
-        "state": "NSW",
-        "street1": "1 Lehn Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "17:00",
-          "day": "Sunday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "08:30"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 2871,
-      "enabled": true,
-      "hubbedlocation_id": 2871,
-      "lastModifiedDate": null,
-      "latitude": -33.959941,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 150.9921431,
-      "name": "East Hills Convenience Store",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 08:30-17:00, Mon: 08:30-17:00, Tue: 08:30-17:00, Wed: 08:30-17:00, Thu: 08:30-17:00, Fri: 08:30-17:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU003725",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Zetland",
         "country": "Australia",
         "postcode": "2017",
@@ -32021,116 +31801,6 @@
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "Duncraig",
-        "country": "Australia",
-        "postcode": "6023",
-        "state": "WA",
-        "street1": "1/75 Hilarion Rd",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "19:00",
-          "day": "Sunday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Monday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Tuesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Wednesday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Thursday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Friday",
-          "open_time": "07:00"
-        },
-        {
-          "close_time": "19:00",
-          "day": "Saturday",
-          "open_time": "07:00"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3142,
-      "enabled": true,
-      "hubbedlocation_id": 3142,
-      "lastModifiedDate": null,
-      "latitude": -31.8216936,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 4,
-        "name": "Convenience"
-      },
-      "longitude": 115.7705785,
-      "name": "Lilburne Supa Deli",
-      "offset": "+08:00",
-      "openingDays": null,
-      "operatingHours": "Sun: 07:00-19:00, Mon: 07:00-19:00, Tue: 07:00-19:00, Wed: 07:00-19:00, Thu: 07:00-19:00, Fri: 07:00-19:00, Sat: 07:00-19:00",
-      "packingEnabled": false,
-      "phone": "0894485195",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "Active",
-      "storeDlb": "AU002769",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AWST"
     },
     {
       "address": {
@@ -48118,106 +47788,6 @@
       "showonmap": true,
       "special_instructions": "",
       "storeDlb": "AU002839",
-      "storeIcon": null,
-      "storeType": "Community",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
-        "city": "St Kilda",
-        "country": "Australia",
-        "postcode": "3182",
-        "state": "VIC",
-        "street1": "Shop 1, 296-298 St Kilda Road",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Monday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Tuesday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Wednesday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Thursday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "16:00",
-          "day": "Friday",
-          "open_time": "10:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 3599,
-      "enabled": true,
-      "hubbedlocation_id": 3599,
-      "lastModifiedDate": null,
-      "latitude": -37.8642946,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 7,
-        "name": "Printing & Logistics"
-      },
-      "longitude": 144.9859798,
-      "name": "PACK & SEND St Kilda Road",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 10:00-16:00, Tue: 10:00-16:00, Wed: 10:00-16:00, Thu: 10:00-16:00, Fri: 10:00-16:00, Sat: Closed",
-      "packingEnabled": false,
-      "phone": "03 9521 5633",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU002837",
       "storeIcon": null,
       "storeType": "Community",
       "timezone": "AEDT"
@@ -148480,16 +148050,6 @@
           "id": 3,
           "productname": "Missed Delivery",
           "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
         }
       ],
       "service_type": null,
@@ -175972,116 +175532,6 @@
     },
     {
       "address": {
-        "city": "Croydon",
-        "country": "Australia",
-        "postcode": "3136",
-        "state": "VIC",
-        "street1": "8/434 Maroondah Highway",
-        "street2": null
-      },
-      "availableDelivery": null,
-      "businessHours": [
-        {
-          "close_time": "Closed",
-          "day": "Sunday",
-          "open_time": "Closed"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Monday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Tuesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Wednesday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Thursday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "17:00",
-          "day": "Friday",
-          "open_time": "09:00"
-        },
-        {
-          "close_time": "Closed",
-          "day": "Saturday",
-          "open_time": "Closed"
-        }
-      ],
-      "channel": {
-        "active": false,
-        "channel_id": 6,
-        "channel_name": "Community",
-        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
-        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
-        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
-      },
-      "courier": null,
-      "droplocation_id": 15744,
-      "enabled": true,
-      "hubbedlocation_id": 15744,
-      "lastModifiedDate": null,
-      "latitude": -37.7968736,
-      "locationCourierData": null,
-      "locationType": {
-        "id": 1,
-        "name": "Newsagent"
-      },
-      "longitude": 145.2564656,
-      "name": "Burnt Bridge News & Lotto",
-      "offset": "+11:00",
-      "openingDays": null,
-      "operatingHours": "Sun: Closed, Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed",
-      "packingEnabled": true,
-      "phone": "1300482233",
-      "printingEnabled": false,
-      "products": [
-        {
-          "id": 1,
-          "productname": "Click and Collect",
-          "status": true
-        },
-        {
-          "id": 3,
-          "productname": "Missed Delivery",
-          "status": true
-        },
-        {
-          "id": 4,
-          "productname": "Return",
-          "status": true
-        },
-        {
-          "id": 5,
-          "productname": "Send",
-          "status": true
-        }
-      ],
-      "service_type": null,
-      "services": [
-        {
-          "id": 2,
-          "name": "Over the counter"
-        }
-      ],
-      "showonmap": true,
-      "special_instructions": "",
-      "storeDlb": "AU008168",
-      "storeIcon": null,
-      "storeType": "NLNA",
-      "timezone": "AEDT"
-    },
-    {
-      "address": {
         "city": "Capel Sound",
         "country": "Australia",
         "postcode": "3940",
@@ -183621,7 +183071,7 @@
         "country": "Australia",
         "postcode": "2102",
         "state": "NSW",
-        "street1": "29/14 Jubilee Avenue",
+        "street1": "18/14 Jubilee Avenue",
         "street2": null
       },
       "availableDelivery": null,
@@ -183675,13 +183125,13 @@
       "enabled": true,
       "hubbedlocation_id": 16666,
       "lastModifiedDate": null,
-      "latitude": -33.6773815,
+      "latitude": -33.6780127,
       "locationCourierData": null,
       "locationType": {
         "id": 8,
         "name": "Other"
       },
-      "longitude": 151.2876218,
+      "longitude": 151.2874828,
       "name": "Awe And Wonder",
       "offset": "+11:00",
       "openingDays": null,
@@ -203213,6 +202663,211 @@
       "storeDlb": "AU009400",
       "storeIcon": null,
       "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Bellingen",
+        "country": "Australia",
+        "postcode": "2454",
+        "state": "NSW",
+        "street1": "83 Hyde Street",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "12:00",
+          "day": "Saturday",
+          "open_time": "06:30"
+        },
+        {
+          "close_time": "11:00",
+          "day": "Sunday",
+          "open_time": "06:30"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20527,
+      "enabled": true,
+      "hubbedlocation_id": 20527,
+      "lastModifiedDate": null,
+      "latitude": -30.4516757,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 0,
+        "name": ""
+      },
+      "longitude": 152.8960765,
+      "name": "News Extra Bellingen",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 06:30-17:00, Tue: 06:30-17:00, Wed: 06:30-17:00, Thu: 06:30-17:00, Fri: 06:30-17:00, Sat: 06:30-12:00, Sun: 06:30-11:00",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 1,
+          "productname": "Click and Collect",
+          "status": true
+        },
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        },
+        {
+          "id": 4,
+          "productname": "Return",
+          "status": true
+        },
+        {
+          "id": 5,
+          "productname": "Send",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009412",
+      "storeIcon": null,
+      "storeType": "Independent",
+      "timezone": null
+    },
+    {
+      "address": {
+        "city": "Kununurra",
+        "country": "Australia",
+        "postcode": "6743",
+        "state": "WA",
+        "street1": "16 Bloodwood Drive",
+        "street2": null
+      },
+      "availableDelivery": null,
+      "businessHours": [
+        {
+          "close_time": "17:00",
+          "day": "Monday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Tuesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Wednesday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Thursday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "17:00",
+          "day": "Friday",
+          "open_time": "09:00"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Saturday",
+          "open_time": "Closed"
+        },
+        {
+          "close_time": "Closed",
+          "day": "Sunday",
+          "open_time": "Closed"
+        }
+      ],
+      "channel": {
+        "active": false,
+        "channel_id": 6,
+        "channel_name": "Community",
+        "logo": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/parcelpoint-p.png",
+        "marker_active": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-active-new.png",
+        "marker_inactive": "https://d2dlvq2n7741dv.cloudfront.net/assets/png/HubbedLogo-inactive-new.png"
+      },
+      "courier": null,
+      "droplocation_id": 20824,
+      "enabled": true,
+      "hubbedlocation_id": 20824,
+      "lastModifiedDate": null,
+      "latitude": -15.7797978,
+      "locationCourierData": null,
+      "locationType": {
+        "id": 8,
+        "name": "Other"
+      },
+      "longitude": 128.7371419,
+      "name": "East Kimberley Couriers",
+      "offset": null,
+      "openingDays": null,
+      "operatingHours": "Mon: 09:00-17:00, Tue: 09:00-17:00, Wed: 09:00-17:00, Thu: 09:00-17:00, Fri: 09:00-17:00, Sat: Closed, Sun: Closed",
+      "packingEnabled": false,
+      "phone": "1300482233",
+      "printingEnabled": false,
+      "products": [
+        {
+          "id": 3,
+          "productname": "Missed Delivery",
+          "status": true
+        }
+      ],
+      "service_type": null,
+      "services": [
+        {
+          "id": 2,
+          "name": "Over the counter"
+        }
+      ],
+      "showonmap": true,
+      "special_instructions": "",
+      "storeDlb": "AU009426",
+      "storeIcon": null,
+      "storeType": "TOLL Depot",
       "timezone": null
     },
     {
